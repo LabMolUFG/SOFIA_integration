@@ -1,0 +1,1281 @@
+Imagem,Descrição,Probabilidade
+ADE_val_00001001.jpg,Ambrosial Primary odor,0.0733
+ADE_val_00001001.jpg,Microbiological Primary odor,0.0703
+ADE_val_00001001.jpg,City Smell Primary odor,0.0674
+ADE_val_00001001.jpg,Hircine Primary odor,0.0624
+ADE_val_00001001.jpg,Characteristic Primary odor,0.0556
+ADE_val_00001001.jpg,Grains Primary odor,0.0264
+ADE_val_00001001.jpg,Alliaceous Primary odor,0.0261
+ADE_val_00001001.jpg,Waste Primary odor,0.0252
+ADE_val_00001001.jpg,Waste Water Primary odor,0.0222
+ADE_val_00001001.jpg,Brown Primary odor,0.0186
+ADE_val_00001005.jpg,City Smell Primary odor,0.3216
+ADE_val_00001005.jpg,Traffic emissions Primary odor,0.1135
+ADE_val_00001005.jpg,Fecal/ Sewery Primary odor,0.0497
+ADE_val_00001005.jpg,Building materials & construction Primary odor,0.0282
+ADE_val_00001005.jpg,Cleaning materials Primary odor,0.0250
+ADE_val_00001005.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0236
+ADE_val_00001005.jpg,Synthetic Primary odor,0.0224
+ADE_val_00001005.jpg,Industrial odours Primary odor,0.0215
+ADE_val_00001005.jpg,Non-food items Primary odor,0.0214
+ADE_val_00001005.jpg,Microbiological Primary odor,0.0200
+ADE_val_00001015.jpg,Ambrosial Primary odor,0.0878
+ADE_val_00001015.jpg,Characteristic Primary odor,0.0748
+ADE_val_00001015.jpg,City Smell Primary odor,0.0624
+ADE_val_00001015.jpg,Waste Water Primary odor,0.0563
+ADE_val_00001015.jpg,Oriental Primary odor,0.0528
+ADE_val_00001015.jpg,Microbiological Primary odor,0.0485
+ADE_val_00001015.jpg,Industrial odours Primary odor,0.0402
+ADE_val_00001015.jpg,Perfumes Primary odor,0.0384
+ADE_val_00001015.jpg,Building materials & construction Primary odor,0.0370
+ADE_val_00001015.jpg,Synthetic Primary odor,0.0290
+ADE_val_00001034.jpg,City Smell Primary odor,0.0961
+ADE_val_00001034.jpg,Alliaceous Primary odor,0.0701
+ADE_val_00001034.jpg,Non-food items Primary odor,0.0635
+ADE_val_00001034.jpg,Herbaceous Primary odor,0.0585
+ADE_val_00001034.jpg,Building materials & construction Primary odor,0.0461
+ADE_val_00001034.jpg,Waste Water Primary odor,0.0382
+ADE_val_00001034.jpg,Cleaning materials Primary odor,0.0318
+ADE_val_00001034.jpg,People & animals Primary odor,0.0309
+ADE_val_00001034.jpg,Medicinal/ Phenolic Primary odor,0.0256
+ADE_val_00001034.jpg,Human Perception Primary odor,0.0239
+ADE_val_00001054.jpg,People & animals Primary odor,0.0565
+ADE_val_00001054.jpg,Woody oriental Primary odor,0.0495
+ADE_val_00001054.jpg,Fecal/ Sewery Primary odor,0.0476
+ADE_val_00001054.jpg,Ylang Primary odor,0.0398
+ADE_val_00001054.jpg,Coal tar Primary odor,0.0311
+ADE_val_00001054.jpg,Waste Water Primary odor,0.0296
+ADE_val_00001054.jpg,Drinking Water Primary odor,0.0291
+ADE_val_00001054.jpg,Waxy Primary odor,0.0239
+ADE_val_00001054.jpg,Nature Primary odor,0.0234
+ADE_val_00001054.jpg,Brown Primary odor,0.0213
+ADE_val_00001063.jpg,Cleaning materials Primary odor,0.0793
+ADE_val_00001063.jpg,Brown Primary odor,0.0570
+ADE_val_00001063.jpg,Dry woods Primary odor,0.0403
+ADE_val_00001063.jpg,Fecal/ Sewery Primary odor,0.0348
+ADE_val_00001063.jpg,Building materials & construction Primary odor,0.0335
+ADE_val_00001063.jpg,Ambrosial Primary odor,0.0316
+ADE_val_00001063.jpg,City Smell Primary odor,0.0294
+ADE_val_00001063.jpg,Coal tar Primary odor,0.0224
+ADE_val_00001063.jpg,Sulphur/ Cabbage/ Garlic Primary odor,0.0210
+ADE_val_00001063.jpg,Waxy Primary odor,0.0207
+ADE_val_00001073.jpg,Cleaning materials Primary odor,0.1783
+ADE_val_00001073.jpg,Fecal/ Sewery Primary odor,0.0841
+ADE_val_00001073.jpg,Coal tar Primary odor,0.0619
+ADE_val_00001073.jpg,Building materials & construction Primary odor,0.0466
+ADE_val_00001073.jpg,Brown Primary odor,0.0376
+ADE_val_00001073.jpg,Restaurant Primary odor,0.0265
+ADE_val_00001073.jpg,Grains Primary odor,0.0232
+ADE_val_00001073.jpg,Ripe/ Unripe Primary odor,0.0192
+ADE_val_00001073.jpg,Lemon Primary odor,0.0180
+ADE_val_00001073.jpg,Spices Primary odor,0.0166
+ADE_val_00001083.jpg,Cleaning materials Primary odor,0.2086
+ADE_val_00001083.jpg,Fecal/ Sewery Primary odor,0.1639
+ADE_val_00001083.jpg,Restaurant Primary odor,0.1094
+ADE_val_00001083.jpg,Building materials & construction Primary odor,0.0459
+ADE_val_00001083.jpg,Waste Water Primary odor,0.0386
+ADE_val_00001083.jpg,Water Primary odor,0.0257
+ADE_val_00001083.jpg,Drinking Water Primary odor,0.0239
+ADE_val_00001083.jpg,Microbial Primary odor,0.0189
+ADE_val_00001083.jpg,Human Perception Primary odor,0.0186
+ADE_val_00001083.jpg,Industrial odours Primary odor,0.0157
+ADE_val_00001106.jpg,Restaurant Primary odor,0.2869
+ADE_val_00001106.jpg,Fecal/ Sewery Primary odor,0.0624
+ADE_val_00001106.jpg,Microbial Primary odor,0.0367
+ADE_val_00001106.jpg,Water Primary odor,0.0362
+ADE_val_00001106.jpg,Cleaning materials Primary odor,0.0268
+ADE_val_00001106.jpg,Microbiological Primary odor,0.0259
+ADE_val_00001106.jpg,Waste Water Primary odor,0.0229
+ADE_val_00001106.jpg,Industrial odours Primary odor,0.0210
+ADE_val_00001106.jpg,Drinking Water Primary odor,0.0176
+ADE_val_00001106.jpg,Sulphur/ Cabbage/ Garlic Primary odor,0.0164
+ADE_val_00001112.jpg,Fragrant/ Fruity Primary odor,0.0753
+ADE_val_00001112.jpg,Drinking Water Primary odor,0.0707
+ADE_val_00001112.jpg,Vegetation Primary odor,0.0537
+ADE_val_00001112.jpg,Perfumes Primary odor,0.0483
+ADE_val_00001112.jpg,Fragrance Primary odor,0.0386
+ADE_val_00001112.jpg,Microbiological Primary odor,0.0357
+ADE_val_00001112.jpg,Plants Primary odor,0.0351
+ADE_val_00001112.jpg,Characteristic Primary odor,0.0330
+ADE_val_00001112.jpg,People & animals Primary odor,0.0329
+ADE_val_00001112.jpg,Medicinal/ Phenolic Primary odor,0.0308
+ADE_val_00001122.jpg,Cleaning materials Primary odor,0.0963
+ADE_val_00001122.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0660
+ADE_val_00001122.jpg,Building materials & construction Primary odor,0.0447
+ADE_val_00001122.jpg,Aromatic Primary odor,0.0363
+ADE_val_00001122.jpg,Mossy woods Primary odor,0.0328
+ADE_val_00001122.jpg,Characteristic Primary odor,0.0317
+ADE_val_00001122.jpg,Woody/ Resinous Primary odor,0.0295
+ADE_val_00001122.jpg,Dry woods Primary odor,0.0274
+ADE_val_00001122.jpg,Fecal/ Sewery Primary odor,0.0234
+ADE_val_00001122.jpg,Medicinal/ Alcohol Primary odor,0.0207
+ADE_val_00001131.jpg,Cleaning materials Primary odor,0.1146
+ADE_val_00001131.jpg,Aromatic Primary odor,0.0617
+ADE_val_00001131.jpg,Ylang Primary odor,0.0392
+ADE_val_00001131.jpg,Dry fruit Primary odor,0.0383
+ADE_val_00001131.jpg,Building materials & construction Primary odor,0.0380
+ADE_val_00001131.jpg,Hircine Primary odor,0.0378
+ADE_val_00001131.jpg,Coal tar Primary odor,0.0311
+ADE_val_00001131.jpg,Medicinal/ Phenolic Primary odor,0.0304
+ADE_val_00001131.jpg,Characteristic Primary odor,0.0287
+ADE_val_00001131.jpg,Cloth Primary odor,0.0246
+ADE_val_00001151.jpg,Cleaning materials Primary odor,0.1649
+ADE_val_00001151.jpg,Ylang Primary odor,0.1144
+ADE_val_00001151.jpg,Woody oriental Primary odor,0.0484
+ADE_val_00001151.jpg,Building materials & construction Primary odor,0.0466
+ADE_val_00001151.jpg,Restaurant Primary odor,0.0425
+ADE_val_00001151.jpg,Dry fruit Primary odor,0.0346
+ADE_val_00001151.jpg,Aromatic Primary odor,0.0342
+ADE_val_00001151.jpg,Characteristic Primary odor,0.0247
+ADE_val_00001151.jpg,Medicinal/ Phenolic Primary odor,0.0237
+ADE_val_00001151.jpg,Vegetation Primary odor,0.0192
+ADE_val_00001159.jpg,Building materials & construction Primary odor,0.1482
+ADE_val_00001159.jpg,Cleaning materials Primary odor,0.1190
+ADE_val_00001159.jpg,Aromatic Primary odor,0.0552
+ADE_val_00001159.jpg,Ylang Primary odor,0.0324
+ADE_val_00001159.jpg,Cloth Primary odor,0.0235
+ADE_val_00001159.jpg,Characteristic Primary odor,0.0224
+ADE_val_00001159.jpg,Alliaceous Primary odor,0.0220
+ADE_val_00001159.jpg,Human Perception Primary odor,0.0220
+ADE_val_00001159.jpg,Industrial odours Primary odor,0.0217
+ADE_val_00001159.jpg,Microbiological Primary odor,0.0213
+ADE_val_00001161.jpg,Building materials & construction Primary odor,0.0993
+ADE_val_00001161.jpg,Cleaning materials Primary odor,0.0880
+ADE_val_00001161.jpg,Aromatic Primary odor,0.0809
+ADE_val_00001161.jpg,Restaurant Primary odor,0.0586
+ADE_val_00001161.jpg,Characteristic Primary odor,0.0558
+ADE_val_00001161.jpg,Industrial odours Primary odor,0.0338
+ADE_val_00001161.jpg,Human Perception Primary odor,0.0336
+ADE_val_00001161.jpg,Medicinal/ Phenolic Primary odor,0.0274
+ADE_val_00001161.jpg,Microbiological Primary odor,0.0241
+ADE_val_00001161.jpg,Hircine Primary odor,0.0227
+ADE_val_00001211.jpg,Waste Water Primary odor,0.2190
+ADE_val_00001211.jpg,Citrus Primary odor,0.0755
+ADE_val_00001211.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0755
+ADE_val_00001211.jpg,Fecal/ Sewery Primary odor,0.0586
+ADE_val_00001211.jpg,Waxy Primary odor,0.0368
+ADE_val_00001211.jpg,Water Primary odor,0.0282
+ADE_val_00001211.jpg,Synthetic Primary odor,0.0268
+ADE_val_00001211.jpg,Oriental Primary odor,0.0257
+ADE_val_00001211.jpg,Bitter Primary odor,0.0252
+ADE_val_00001211.jpg,Waste Primary odor,0.0204
+ADE_val_00001229.jpg,Perfumes Primary odor,0.1063
+ADE_val_00001229.jpg,Fragrance Primary odor,0.0591
+ADE_val_00001229.jpg,Cleaning materials Primary odor,0.0529
+ADE_val_00001229.jpg,Tobacco smoke Primary odor,0.0480
+ADE_val_00001229.jpg,Restaurant Primary odor,0.0369
+ADE_val_00001229.jpg,Chocolate Primary odor,0.0343
+ADE_val_00001229.jpg,Medicinal/ Alcohol Primary odor,0.0319
+ADE_val_00001229.jpg,Human Perception Primary odor,0.0283
+ADE_val_00001229.jpg,Aromatic Primary odor,0.0273
+ADE_val_00001229.jpg,Foul Primary odor,0.0223
+ADE_val_00001238.jpg,Grassy/ Woody Primary odor,0.0927
+ADE_val_00001238.jpg,Fecal/ Sewery Primary odor,0.0747
+ADE_val_00001238.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0630
+ADE_val_00001238.jpg,Dairy Primary odor,0.0353
+ADE_val_00001238.jpg,Medicinal/ Phenolic Primary odor,0.0339
+ADE_val_00001238.jpg,Medicinal/ Alcohol Primary odor,0.0313
+ADE_val_00001238.jpg,People & animals Primary odor,0.0304
+ADE_val_00001238.jpg,Microbiological Primary odor,0.0283
+ADE_val_00001238.jpg,Vegetation Primary odor,0.0278
+ADE_val_00001238.jpg,Drinking Water Primary odor,0.0257
+ADE_val_00001248.jpg,City Smell Primary odor,0.2414
+ADE_val_00001248.jpg,Microbiological Primary odor,0.1693
+ADE_val_00001248.jpg,Hircine Primary odor,0.0336
+ADE_val_00001248.jpg,Waste Water Primary odor,0.0279
+ADE_val_00001248.jpg,Ambrosial Primary odor,0.0267
+ADE_val_00001248.jpg,Perfumes Primary odor,0.0224
+ADE_val_00001248.jpg,Fecal/ Sewery Primary odor,0.0212
+ADE_val_00001248.jpg,Citrus Primary odor,0.0207
+ADE_val_00001248.jpg,Non-vegetarian Primary odor,0.0207
+ADE_val_00001248.jpg,Grains Primary odor,0.0185
+ADE_val_00001258.jpg,Cleaning materials Primary odor,0.2594
+ADE_val_00001258.jpg,Non-food items Primary odor,0.1476
+ADE_val_00001258.jpg,Building materials & construction Primary odor,0.1256
+ADE_val_00001258.jpg,People & animals Primary odor,0.0674
+ADE_val_00001258.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0585
+ADE_val_00001258.jpg,Industrial odours Primary odor,0.0238
+ADE_val_00001258.jpg,Human Perception Primary odor,0.0178
+ADE_val_00001258.jpg,Microbiological Primary odor,0.0172
+ADE_val_00001258.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0127
+ADE_val_00001258.jpg,Synthetic Primary odor,0.0126
+ADE_val_00001264.jpg,City Smell Primary odor,0.0971
+ADE_val_00001264.jpg,Human Perception Primary odor,0.0773
+ADE_val_00001264.jpg,Industrial odours Primary odor,0.0622
+ADE_val_00001264.jpg,Traffic emissions Primary odor,0.0559
+ADE_val_00001264.jpg,Chemical/ Hydrocarbon Primary odor,0.0544
+ADE_val_00001264.jpg,Synthetic Primary odor,0.0445
+ADE_val_00001264.jpg,Nose Feel Primary odor,0.0402
+ADE_val_00001264.jpg,Characteristic Primary odor,0.0368
+ADE_val_00001264.jpg,Perfumes Primary odor,0.0366
+ADE_val_00001264.jpg,Aromatic Primary odor,0.0332
+ADE_val_00001268.jpg,Microbiological Primary odor,0.0766
+ADE_val_00001268.jpg,Fecal/ Sewery Primary odor,0.0646
+ADE_val_00001268.jpg,Restaurant Primary odor,0.0371
+ADE_val_00001268.jpg,Industrial odours Primary odor,0.0318
+ADE_val_00001268.jpg,Cleaning materials Primary odor,0.0318
+ADE_val_00001268.jpg,Human Perception Primary odor,0.0257
+ADE_val_00001268.jpg,City Smell Primary odor,0.0239
+ADE_val_00001268.jpg,Brown Primary odor,0.0237
+ADE_val_00001268.jpg,Foul Primary odor,0.0227
+ADE_val_00001268.jpg,Citrus Primary odor,0.0218
+ADE_val_00001287.jpg,Coal tar Primary odor,0.0691
+ADE_val_00001287.jpg,Grassy/ Woody Primary odor,0.0467
+ADE_val_00001287.jpg,Woody Primary odor,0.0458
+ADE_val_00001287.jpg,Earthy/ Musty/ Moldy Primary odor,0.0320
+ADE_val_00001287.jpg,Characteristic Primary odor,0.0302
+ADE_val_00001287.jpg,Brown Primary odor,0.0298
+ADE_val_00001287.jpg,Waste Water Primary odor,0.0265
+ADE_val_00001287.jpg,Nature Primary odor,0.0253
+ADE_val_00001287.jpg,Dry woods Primary odor,0.0191
+ADE_val_00001287.jpg,Other Primary odor,0.0182
+ADE_val_00001306.jpg,Restaurant Primary odor,0.4412
+ADE_val_00001306.jpg,Cleaning materials Primary odor,0.0349
+ADE_val_00001306.jpg,Non-food items Primary odor,0.0326
+ADE_val_00001306.jpg,Microbiological Primary odor,0.0241
+ADE_val_00001306.jpg,Grains Primary odor,0.0240
+ADE_val_00001306.jpg,Wine Primary odor,0.0215
+ADE_val_00001306.jpg,Food Primary odor,0.0202
+ADE_val_00001306.jpg,Building materials & construction Primary odor,0.0184
+ADE_val_00001306.jpg,Perfumes Primary odor,0.0174
+ADE_val_00001306.jpg,Foul Primary odor,0.0173
+ADE_val_00001316.jpg,Restaurant Primary odor,0.6028
+ADE_val_00001316.jpg,Non-food items Primary odor,0.0419
+ADE_val_00001316.jpg,Cleaning materials Primary odor,0.0381
+ADE_val_00001316.jpg,Building materials & construction Primary odor,0.0355
+ADE_val_00001316.jpg,Balsamic Primary odor,0.0102
+ADE_val_00001316.jpg,Fecal/ Sewery Primary odor,0.0098
+ADE_val_00001316.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0098
+ADE_val_00001316.jpg,Wine Primary odor,0.0091
+ADE_val_00001316.jpg,Spices Primary odor,0.0086
+ADE_val_00001316.jpg,Aromatic Primary odor,0.0067
+ADE_val_00001369.jpg,Waste Water Primary odor,0.4446
+ADE_val_00001369.jpg,Drinking Water Primary odor,0.1604
+ADE_val_00001369.jpg,Water Primary odor,0.1263
+ADE_val_00001369.jpg,City Smell Primary odor,0.0274
+ADE_val_00001369.jpg,Microbiological Primary odor,0.0174
+ADE_val_00001369.jpg,Synthetic Primary odor,0.0168
+ADE_val_00001369.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0137
+ADE_val_00001369.jpg,Industrial odours Primary odor,0.0125
+ADE_val_00001369.jpg,Cleaning materials Primary odor,0.0107
+ADE_val_00001369.jpg,Fecal/ Sewery Primary odor,0.0096
+ADE_val_00001404.jpg,Traffic emissions Primary odor,0.5727
+ADE_val_00001404.jpg,Microbiological Primary odor,0.0482
+ADE_val_00001404.jpg,Industrial odours Primary odor,0.0317
+ADE_val_00001404.jpg,Aromatic Primary odor,0.0315
+ADE_val_00001404.jpg,City Smell Primary odor,0.0304
+ADE_val_00001404.jpg,Coal tar Primary odor,0.0304
+ADE_val_00001404.jpg,Characteristic Primary odor,0.0281
+ADE_val_00001404.jpg,Synthetic Primary odor,0.0129
+ADE_val_00001404.jpg,Medicinal/ Phenolic Primary odor,0.0114
+ADE_val_00001404.jpg,Vegetation Primary odor,0.0113
+ADE_val_00001422.jpg,Restaurant Primary odor,0.0652
+ADE_val_00001422.jpg,Synthetic Primary odor,0.0554
+ADE_val_00001422.jpg,Fecal/ Sewery Primary odor,0.0482
+ADE_val_00001422.jpg,Characteristic Primary odor,0.0384
+ADE_val_00001422.jpg,Other Primary odor,0.0332
+ADE_val_00001422.jpg,Other Primary odor,0.0332
+ADE_val_00001422.jpg,Cleaning materials Primary odor,0.0267
+ADE_val_00001422.jpg,Microbiological Primary odor,0.0246
+ADE_val_00001422.jpg,Microbial Primary odor,0.0245
+ADE_val_00001422.jpg,Aromatic Primary odor,0.0243
+ADE_val_00001433.jpg,City Smell Primary odor,0.1939
+ADE_val_00001433.jpg,Restaurant Primary odor,0.0892
+ADE_val_00001433.jpg,Cleaning materials Primary odor,0.0595
+ADE_val_00001433.jpg,Fragrance Primary odor,0.0363
+ADE_val_00001433.jpg,Human Perception Primary odor,0.0295
+ADE_val_00001433.jpg,Foul Primary odor,0.0225
+ADE_val_00001433.jpg,Sharp/ Pungent Primary odor,0.0203
+ADE_val_00001433.jpg,Medicinal/ Alcohol Primary odor,0.0184
+ADE_val_00001433.jpg,Characteristic Primary odor,0.0178
+ADE_val_00001433.jpg,Microbiological Primary odor,0.0178
+ADE_val_00001462.jpg,Cleaning materials Primary odor,0.4228
+ADE_val_00001462.jpg,Non-food items Primary odor,0.0829
+ADE_val_00001462.jpg,Building materials & construction Primary odor,0.0508
+ADE_val_00001462.jpg,Ripe/ Unripe Primary odor,0.0280
+ADE_val_00001462.jpg,Restaurant Primary odor,0.0223
+ADE_val_00001462.jpg,Fecal/ Sewery Primary odor,0.0178
+ADE_val_00001462.jpg,Microbiological Primary odor,0.0132
+ADE_val_00001462.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0117
+ADE_val_00001462.jpg,Plants Primary odor,0.0111
+ADE_val_00001462.jpg,Medicinal/ Phenolic Primary odor,0.0098
+ADE_val_00001472.jpg,Cleaning materials Primary odor,0.3481
+ADE_val_00001472.jpg,Non-food items Primary odor,0.1948
+ADE_val_00001472.jpg,Building materials & construction Primary odor,0.0307
+ADE_val_00001472.jpg,City Smell Primary odor,0.0219
+ADE_val_00001472.jpg,Restaurant Primary odor,0.0164
+ADE_val_00001472.jpg,Industrial odours Primary odor,0.0156
+ADE_val_00001472.jpg,Vegetation Primary odor,0.0146
+ADE_val_00001472.jpg,Sharp/ Pungent Primary odor,0.0133
+ADE_val_00001472.jpg,Spices Primary odor,0.0133
+ADE_val_00001472.jpg,Food Primary odor,0.0125
+ADE_val_00001474.jpg,Cleaning materials Primary odor,0.3736
+ADE_val_00001474.jpg,Non-food items Primary odor,0.2184
+ADE_val_00001474.jpg,Food Primary odor,0.0411
+ADE_val_00001474.jpg,Balsamic Primary odor,0.0302
+ADE_val_00001474.jpg,Plants Primary odor,0.0199
+ADE_val_00001474.jpg,Spices Primary odor,0.0198
+ADE_val_00001474.jpg,Dry fruit Primary odor,0.0187
+ADE_val_00001474.jpg,Building materials & construction Primary odor,0.0159
+ADE_val_00001474.jpg,Wine Primary odor,0.0157
+ADE_val_00001474.jpg,Restaurant Primary odor,0.0146
+ADE_val_00001491.jpg,Drinking Water Primary odor,0.2973
+ADE_val_00001491.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.1085
+ADE_val_00001491.jpg,People & animals Primary odor,0.0987
+ADE_val_00001491.jpg,Water Primary odor,0.0509
+ADE_val_00001491.jpg,Waste Water Primary odor,0.0410
+ADE_val_00001491.jpg,Human Perception Primary odor,0.0391
+ADE_val_00001491.jpg,Alliaceous Primary odor,0.0327
+ADE_val_00001491.jpg,Aromatic Primary odor,0.0199
+ADE_val_00001491.jpg,Nature Primary odor,0.0186
+ADE_val_00001491.jpg,City Smell Primary odor,0.0141
+ADE_val_00001511.jpg,Cleaning materials Primary odor,0.4114
+ADE_val_00001511.jpg,Non-food items Primary odor,0.0442
+ADE_val_00001511.jpg,Ylang Primary odor,0.0329
+ADE_val_00001511.jpg,Plants Primary odor,0.0223
+ADE_val_00001511.jpg,Woody/ Resinous Primary odor,0.0198
+ADE_val_00001511.jpg,Characteristic Primary odor,0.0194
+ADE_val_00001511.jpg,Wine Primary odor,0.0187
+ADE_val_00001511.jpg,Aromatic Primary odor,0.0148
+ADE_val_00001511.jpg,Vegetation Primary odor,0.0140
+ADE_val_00001511.jpg,Fecal/ Sewery Primary odor,0.0138
+ADE_val_00001520.jpg,Cleaning materials Primary odor,0.1592
+ADE_val_00001520.jpg,Fragrance Primary odor,0.0486
+ADE_val_00001520.jpg,Characteristic Primary odor,0.0435
+ADE_val_00001520.jpg,Ambrosial Primary odor,0.0394
+ADE_val_00001520.jpg,Perfumes Primary odor,0.0377
+ADE_val_00001520.jpg,Microbiological Primary odor,0.0299
+ADE_val_00001520.jpg,Balsamic Primary odor,0.0234
+ADE_val_00001520.jpg,Hircine Primary odor,0.0215
+ADE_val_00001520.jpg,Cloth Primary odor,0.0214
+ADE_val_00001520.jpg,Aromatic Primary odor,0.0186
+ADE_val_00001527.jpg,Cleaning materials Primary odor,0.0947
+ADE_val_00001527.jpg,Aromatic Primary odor,0.0579
+ADE_val_00001527.jpg,Ylang Primary odor,0.0555
+ADE_val_00001527.jpg,Characteristic Primary odor,0.0489
+ADE_val_00001527.jpg,Coal tar Primary odor,0.0253
+ADE_val_00001527.jpg,Ripe/ Unripe Primary odor,0.0226
+ADE_val_00001527.jpg,Medicinal/ Alcohol Primary odor,0.0217
+ADE_val_00001527.jpg,Microbiological Primary odor,0.0207
+ADE_val_00001527.jpg,Chlorinous Primary odor,0.0205
+ADE_val_00001527.jpg,Medicinal/ Phenolic Primary odor,0.0196
+ADE_val_00001569.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.1729
+ADE_val_00001569.jpg,Traffic emissions Primary odor,0.1496
+ADE_val_00001569.jpg,Fecal/ Sewery Primary odor,0.0459
+ADE_val_00001569.jpg,Coal tar Primary odor,0.0444
+ADE_val_00001569.jpg,Chemical/ Hydrocarbon Primary odor,0.0321
+ADE_val_00001569.jpg,Characteristic Primary odor,0.0281
+ADE_val_00001569.jpg,Non-food items Primary odor,0.0272
+ADE_val_00001569.jpg,Human Perception Primary odor,0.0205
+ADE_val_00001569.jpg,City Smell Primary odor,0.0180
+ADE_val_00001569.jpg,Synthetic Primary odor,0.0155
+ADE_val_00001579.jpg,Hircine Primary odor,0.0631
+ADE_val_00001579.jpg,Characteristic Primary odor,0.0514
+ADE_val_00001579.jpg,Human Perception Primary odor,0.0467
+ADE_val_00001579.jpg,Ammonia Primary odor,0.0457
+ADE_val_00001579.jpg,Alliaceous Primary odor,0.0433
+ADE_val_00001579.jpg,Microbiological Primary odor,0.0391
+ADE_val_00001579.jpg,Non-vegetarian Primary odor,0.0363
+ADE_val_00001579.jpg,Ambrosial Primary odor,0.0360
+ADE_val_00001579.jpg,Waste Water Primary odor,0.0325
+ADE_val_00001579.jpg,Fishy/ Ammonia Primary odor,0.0275
+ADE_val_00001589.jpg,Waste Water Primary odor,0.0762
+ADE_val_00001589.jpg,Coal tar Primary odor,0.0743
+ADE_val_00001589.jpg,Hircine Primary odor,0.0695
+ADE_val_00001589.jpg,Microbiological Primary odor,0.0559
+ADE_val_00001589.jpg,Ammonia Primary odor,0.0535
+ADE_val_00001589.jpg,Building materials & construction Primary odor,0.0495
+ADE_val_00001589.jpg,Industrial odours Primary odor,0.0388
+ADE_val_00001589.jpg,Chemical/ Hydrocarbon Primary odor,0.0345
+ADE_val_00001589.jpg,Characteristic Primary odor,0.0276
+ADE_val_00001589.jpg,Grassy/ Woody Primary odor,0.0270
+ADE_val_00001598.jpg,Restaurant Primary odor,0.1044
+ADE_val_00001598.jpg,Bakery Primary odor,0.0506
+ADE_val_00001598.jpg,Balsamic Primary odor,0.0454
+ADE_val_00001598.jpg,Synthetic Primary odor,0.0352
+ADE_val_00001598.jpg,Ambrosial Primary odor,0.0271
+ADE_val_00001598.jpg,Popcorn Primary odor,0.0263
+ADE_val_00001598.jpg,Hircine Primary odor,0.0247
+ADE_val_00001598.jpg,Chocolate Primary odor,0.0239
+ADE_val_00001598.jpg,Fragrance Primary odor,0.0217
+ADE_val_00001598.jpg,Grains Primary odor,0.0206
+ADE_val_00001608.jpg,Building materials & construction Primary odor,0.1151
+ADE_val_00001608.jpg,Cleaning materials Primary odor,0.0898
+ADE_val_00001608.jpg,Restaurant Primary odor,0.0821
+ADE_val_00001608.jpg,Grains Primary odor,0.0376
+ADE_val_00001608.jpg,Brown Primary odor,0.0271
+ADE_val_00001608.jpg,Mossy woods Primary odor,0.0247
+ADE_val_00001608.jpg,Dry woods Primary odor,0.0234
+ADE_val_00001608.jpg,Waste Water Primary odor,0.0218
+ADE_val_00001608.jpg,Fecal/ Sewery Primary odor,0.0214
+ADE_val_00001608.jpg,Aromatic Primary odor,0.0207
+ADE_val_00001632.jpg,Fecal/ Sewery Primary odor,0.0878
+ADE_val_00001632.jpg,Grassy/ Woody Primary odor,0.0843
+ADE_val_00001632.jpg,Microbiological Primary odor,0.0835
+ADE_val_00001632.jpg,Synthetic Primary odor,0.0803
+ADE_val_00001632.jpg,Waste Water Primary odor,0.0740
+ADE_val_00001632.jpg,Chemical/ Hydrocarbon Primary odor,0.0354
+ADE_val_00001632.jpg,Industrial odours Primary odor,0.0346
+ADE_val_00001632.jpg,Citrus Primary odor,0.0343
+ADE_val_00001632.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0217
+ADE_val_00001632.jpg,Green Primary odor,0.0193
+ADE_val_00001657.jpg,Building materials & construction Primary odor,0.3403
+ADE_val_00001657.jpg,Cleaning materials Primary odor,0.0858
+ADE_val_00001657.jpg,Brown Primary odor,0.0378
+ADE_val_00001657.jpg,Grassy/ Woody Primary odor,0.0309
+ADE_val_00001657.jpg,Fecal/ Sewery Primary odor,0.0271
+ADE_val_00001657.jpg,Woody Primary odor,0.0270
+ADE_val_00001657.jpg,Industrial odours Primary odor,0.0256
+ADE_val_00001657.jpg,Earthy/ Musty/ Moldy Primary odor,0.0187
+ADE_val_00001657.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0178
+ADE_val_00001657.jpg,Waste Water Primary odor,0.0176
+ADE_val_00001685.jpg,Herbaceous Primary odor,0.1058
+ADE_val_00001685.jpg,Plants Primary odor,0.1009
+ADE_val_00001685.jpg,Fragrant/ Fruity Primary odor,0.0964
+ADE_val_00001685.jpg,Fragrant Primary odor,0.0419
+ADE_val_00001685.jpg,Vegetation Primary odor,0.0406
+ADE_val_00001685.jpg,Floral Primary odor,0.0388
+ADE_val_00001685.jpg,Drinking Water Primary odor,0.0382
+ADE_val_00001685.jpg,Perfumes Primary odor,0.0360
+ADE_val_00001685.jpg,Fragrance Primary odor,0.0228
+ADE_val_00001685.jpg,Soft floral Primary odor,0.0223
+ADE_val_00001696.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.2338
+ADE_val_00001696.jpg,Coal tar Primary odor,0.1971
+ADE_val_00001696.jpg,Fecal/ Sewery Primary odor,0.0601
+ADE_val_00001696.jpg,Waste Water Primary odor,0.0459
+ADE_val_00001696.jpg,Cleaning materials Primary odor,0.0385
+ADE_val_00001696.jpg,Restaurant Primary odor,0.0312
+ADE_val_00001696.jpg,Industrial odours Primary odor,0.0248
+ADE_val_00001696.jpg,City Smell Primary odor,0.0223
+ADE_val_00001696.jpg,Brown Primary odor,0.0201
+ADE_val_00001696.jpg,Building materials & construction Primary odor,0.0193
+ADE_val_00001715.jpg,Cleaning materials Primary odor,0.1975
+ADE_val_00001715.jpg,Clean Primary odor,0.0382
+ADE_val_00001715.jpg,Wine Primary odor,0.0317
+ADE_val_00001715.jpg,Building materials & construction Primary odor,0.0250
+ADE_val_00001715.jpg,Foul Primary odor,0.0240
+ADE_val_00001715.jpg,Restaurant Primary odor,0.0233
+ADE_val_00001715.jpg,Balsamic Primary odor,0.0232
+ADE_val_00001715.jpg,Characteristic Primary odor,0.0206
+ADE_val_00001715.jpg,Human Perception Primary odor,0.0205
+ADE_val_00001715.jpg,Ylang Primary odor,0.0200
+ADE_val_00001725.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.2068
+ADE_val_00001725.jpg,Cleaning materials Primary odor,0.1041
+ADE_val_00001725.jpg,Industrial odours Primary odor,0.0810
+ADE_val_00001725.jpg,Coal tar Primary odor,0.0334
+ADE_val_00001725.jpg,Building materials & construction Primary odor,0.0300
+ADE_val_00001725.jpg,Fecal/ Sewery Primary odor,0.0235
+ADE_val_00001725.jpg,Medicinal/ Phenolic Primary odor,0.0222
+ADE_val_00001725.jpg,Aromatic Primary odor,0.0170
+ADE_val_00001725.jpg,Restaurant Primary odor,0.0168
+ADE_val_00001725.jpg,People & animals Primary odor,0.0154
+ADE_val_00001737.jpg,Building materials & construction Primary odor,0.4495
+ADE_val_00001737.jpg,Waste Water Primary odor,0.1075
+ADE_val_00001737.jpg,Microbiological Primary odor,0.0694
+ADE_val_00001737.jpg,Waste Primary odor,0.0685
+ADE_val_00001737.jpg,Synthetic Primary odor,0.0159
+ADE_val_00001737.jpg,Microbial Primary odor,0.0155
+ADE_val_00001737.jpg,Non-vegetarian Primary odor,0.0126
+ADE_val_00001737.jpg,Hircine Primary odor,0.0123
+ADE_val_00001737.jpg,Dry fruit Primary odor,0.0112
+ADE_val_00001737.jpg,Compost Primary odor,0.0110
+ADE_val_00001783.jpg,City Smell Primary odor,0.1193
+ADE_val_00001783.jpg,Characteristic Primary odor,0.0582
+ADE_val_00001783.jpg,Microbiological Primary odor,0.0429
+ADE_val_00001783.jpg,Brown Primary odor,0.0428
+ADE_val_00001783.jpg,Hircine Primary odor,0.0375
+ADE_val_00001783.jpg,Waxy Primary odor,0.0333
+ADE_val_00001783.jpg,Ambrosial Primary odor,0.0266
+ADE_val_00001783.jpg,Alliaceous Primary odor,0.0258
+ADE_val_00001783.jpg,Synthetic Primary odor,0.0248
+ADE_val_00001783.jpg,Traffic emissions Primary odor,0.0241
+ADE_val_00001790.jpg,City Smell Primary odor,0.4468
+ADE_val_00001790.jpg,Traffic emissions Primary odor,0.1523
+ADE_val_00001790.jpg,Fragrance Primary odor,0.0369
+ADE_val_00001790.jpg,Characteristic Primary odor,0.0342
+ADE_val_00001790.jpg,Perfumes Primary odor,0.0297
+ADE_val_00001790.jpg,Human Perception Primary odor,0.0286
+ADE_val_00001790.jpg,Synthetic Primary odor,0.0272
+ADE_val_00001790.jpg,Microbiological Primary odor,0.0266
+ADE_val_00001790.jpg,People & animals Primary odor,0.0244
+ADE_val_00001790.jpg,Alliaceous Primary odor,0.0150
+ADE_val_00001793.jpg,City Smell Primary odor,0.3033
+ADE_val_00001793.jpg,Traffic emissions Primary odor,0.2756
+ADE_val_00001793.jpg,Microbiological Primary odor,0.0502
+ADE_val_00001793.jpg,Vegetation Primary odor,0.0303
+ADE_val_00001793.jpg,Characteristic Primary odor,0.0203
+ADE_val_00001793.jpg,Alliaceous Primary odor,0.0171
+ADE_val_00001793.jpg,Aromatic Primary odor,0.0156
+ADE_val_00001793.jpg,Industrial odours Primary odor,0.0139
+ADE_val_00001793.jpg,Perfumes Primary odor,0.0114
+ADE_val_00001793.jpg,Fragrance Primary odor,0.0110
+ADE_val_00001802.jpg,City Smell Primary odor,0.7609
+ADE_val_00001802.jpg,Microbiological Primary odor,0.0361
+ADE_val_00001802.jpg,Urban Odor Primary odor,0.0141
+ADE_val_00001802.jpg,Drinking Water Primary odor,0.0105
+ADE_val_00001802.jpg,Waste Water Primary odor,0.0088
+ADE_val_00001802.jpg,Synthetic Primary odor,0.0087
+ADE_val_00001802.jpg,People & animals Primary odor,0.0086
+ADE_val_00001802.jpg,Characteristic Primary odor,0.0086
+ADE_val_00001802.jpg,Human Perception Primary odor,0.0072
+ADE_val_00001802.jpg,Citrus Primary odor,0.0066
+ADE_val_00001812.jpg,City Smell Primary odor,0.0746
+ADE_val_00001812.jpg,Brown Primary odor,0.0439
+ADE_val_00001812.jpg,Fecal/ Sewery Primary odor,0.0435
+ADE_val_00001812.jpg,Building materials & construction Primary odor,0.0352
+ADE_val_00001812.jpg,Traffic emissions Primary odor,0.0297
+ADE_val_00001812.jpg,Coal tar Primary odor,0.0291
+ADE_val_00001812.jpg,Urban Odor Primary odor,0.0286
+ADE_val_00001812.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0247
+ADE_val_00001812.jpg,Rotten Primary odor,0.0243
+ADE_val_00001812.jpg,Characteristic Primary odor,0.0242
+ADE_val_00001822.jpg,City Smell Primary odor,0.6340
+ADE_val_00001822.jpg,Human Perception Primary odor,0.0462
+ADE_val_00001822.jpg,Characteristic Primary odor,0.0351
+ADE_val_00001822.jpg,Traffic emissions Primary odor,0.0249
+ADE_val_00001822.jpg,People & animals Primary odor,0.0214
+ADE_val_00001822.jpg,Non-food items Primary odor,0.0165
+ADE_val_00001822.jpg,Urban Odor Primary odor,0.0141
+ADE_val_00001822.jpg,Microbiological Primary odor,0.0132
+ADE_val_00001822.jpg,Coal tar Primary odor,0.0131
+ADE_val_00001822.jpg,Synthetic Primary odor,0.0116
+ADE_val_00001832.jpg,City Smell Primary odor,0.6176
+ADE_val_00001832.jpg,Traffic emissions Primary odor,0.1290
+ADE_val_00001832.jpg,Fecal/ Sewery Primary odor,0.0344
+ADE_val_00001832.jpg,Urban Odor Primary odor,0.0142
+ADE_val_00001832.jpg,Microbiological Primary odor,0.0105
+ADE_val_00001832.jpg,Characteristic Primary odor,0.0087
+ADE_val_00001832.jpg,People & animals Primary odor,0.0075
+ADE_val_00001832.jpg,Alliaceous Primary odor,0.0067
+ADE_val_00001832.jpg,Brown Primary odor,0.0063
+ADE_val_00001832.jpg,Non-food items Primary odor,0.0062
+ADE_val_00001841.jpg,City Smell Primary odor,0.2927
+ADE_val_00001841.jpg,Traffic emissions Primary odor,0.1171
+ADE_val_00001841.jpg,Microbiological Primary odor,0.0557
+ADE_val_00001841.jpg,Perfumes Primary odor,0.0534
+ADE_val_00001841.jpg,Characteristic Primary odor,0.0475
+ADE_val_00001841.jpg,Hircine Primary odor,0.0287
+ADE_val_00001841.jpg,Fragrance Primary odor,0.0236
+ADE_val_00001841.jpg,Waste Water Primary odor,0.0236
+ADE_val_00001841.jpg,Industrial odours Primary odor,0.0196
+ADE_val_00001841.jpg,Aromatic Primary odor,0.0159
+ADE_val_00001842.jpg,City Smell Primary odor,0.1585
+ADE_val_00001842.jpg,Restaurant Primary odor,0.0836
+ADE_val_00001842.jpg,Traffic emissions Primary odor,0.0707
+ADE_val_00001842.jpg,Characteristic Primary odor,0.0541
+ADE_val_00001842.jpg,Microbiological Primary odor,0.0506
+ADE_val_00001842.jpg,Alliaceous Primary odor,0.0307
+ADE_val_00001842.jpg,Ambrosial Primary odor,0.0264
+ADE_val_00001842.jpg,Hircine Primary odor,0.0248
+ADE_val_00001842.jpg,Mossy woods Primary odor,0.0228
+ADE_val_00001842.jpg,Human Perception Primary odor,0.0227
+ADE_val_00001851.jpg,Ambrosial Primary odor,0.0778
+ADE_val_00001851.jpg,Restaurant Primary odor,0.0660
+ADE_val_00001851.jpg,Hircine Primary odor,0.0656
+ADE_val_00001851.jpg,Aromatic Primary odor,0.0475
+ADE_val_00001851.jpg,Characteristic Primary odor,0.0455
+ADE_val_00001851.jpg,Microbiological Primary odor,0.0422
+ADE_val_00001851.jpg,Citrus Primary odor,0.0395
+ADE_val_00001851.jpg,City Smell Primary odor,0.0364
+ADE_val_00001851.jpg,Wine Primary odor,0.0255
+ADE_val_00001851.jpg,Balsamic Primary odor,0.0253
+ADE_val_00001880.jpg,Perfumes Primary odor,0.0832
+ADE_val_00001880.jpg,Ylang Primary odor,0.0668
+ADE_val_00001880.jpg,Waste Water Primary odor,0.0588
+ADE_val_00001880.jpg,Hircine Primary odor,0.0533
+ADE_val_00001880.jpg,Restaurant Primary odor,0.0459
+ADE_val_00001880.jpg,Water Primary odor,0.0351
+ADE_val_00001880.jpg,Industrial odours Primary odor,0.0334
+ADE_val_00001880.jpg,Synthetic Primary odor,0.0330
+ADE_val_00001880.jpg,Fragrance Primary odor,0.0304
+ADE_val_00001880.jpg,Drinking Water Primary odor,0.0292
+ADE_val_00001895.jpg,Vegetation Primary odor,0.1060
+ADE_val_00001895.jpg,Medicinal/ Phenolic Primary odor,0.0927
+ADE_val_00001895.jpg,Plants Primary odor,0.0834
+ADE_val_00001895.jpg,Dry fruit Primary odor,0.0570
+ADE_val_00001895.jpg,Citrus Primary odor,0.0556
+ADE_val_00001895.jpg,Herbaceous Primary odor,0.0424
+ADE_val_00001895.jpg,Ylang Primary odor,0.0416
+ADE_val_00001895.jpg,Fragrant/ Fruity Primary odor,0.0381
+ADE_val_00001895.jpg,City Smell Primary odor,0.0376
+ADE_val_00001895.jpg,Ripe/ Unripe Primary odor,0.0253
+ADE_val_00001909.jpg,Cleaning materials Primary odor,0.1798
+ADE_val_00001909.jpg,Plants Primary odor,0.0567
+ADE_val_00001909.jpg,Ylang Primary odor,0.0528
+ADE_val_00001909.jpg,Industrial odours Primary odor,0.0414
+ADE_val_00001909.jpg,Dry fruit Primary odor,0.0405
+ADE_val_00001909.jpg,Coal tar Primary odor,0.0305
+ADE_val_00001909.jpg,Aromatic Primary odor,0.0286
+ADE_val_00001909.jpg,Vegetation Primary odor,0.0264
+ADE_val_00001909.jpg,Building materials & construction Primary odor,0.0258
+ADE_val_00001909.jpg,Fragrance Primary odor,0.0250
+ADE_val_00001929.jpg,Cleaning materials Primary odor,0.1846
+ADE_val_00001929.jpg,Industrial odours Primary odor,0.1749
+ADE_val_00001929.jpg,Building materials & construction Primary odor,0.1314
+ADE_val_00001929.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0972
+ADE_val_00001929.jpg,Synthetic Primary odor,0.0511
+ADE_val_00001929.jpg,Solvent/ Hydrocarbon Primary odor,0.0271
+ADE_val_00001929.jpg,Waste Water Primary odor,0.0259
+ADE_val_00001929.jpg,Non-food items Primary odor,0.0157
+ADE_val_00001929.jpg,Restaurant Primary odor,0.0144
+ADE_val_00001929.jpg,Fecal/ Sewery Primary odor,0.0142
+ADE_val_00001947.jpg,Waxy Primary odor,0.1319
+ADE_val_00001947.jpg,Waste Water Primary odor,0.1235
+ADE_val_00001947.jpg,Dry woods Primary odor,0.0939
+ADE_val_00001947.jpg,Mossy woods Primary odor,0.0866
+ADE_val_00001947.jpg,Ambrosial Primary odor,0.0536
+ADE_val_00001947.jpg,Woody Primary odor,0.0392
+ADE_val_00001947.jpg,Brown Primary odor,0.0374
+ADE_val_00001947.jpg,Building materials & construction Primary odor,0.0317
+ADE_val_00001947.jpg,Microbiological Primary odor,0.0208
+ADE_val_00001947.jpg,Waste Primary odor,0.0200
+ADE_val_00001978.jpg,City Smell Primary odor,0.1784
+ADE_val_00001978.jpg,Drinking Water Primary odor,0.1237
+ADE_val_00001978.jpg,Water Primary odor,0.0537
+ADE_val_00001978.jpg,People & animals Primary odor,0.0423
+ADE_val_00001978.jpg,Waste Water Primary odor,0.0321
+ADE_val_00001978.jpg,Fishy/ Rancid Primary odor,0.0235
+ADE_val_00001978.jpg,Cleaning materials Primary odor,0.0229
+ADE_val_00001978.jpg,Coal tar Primary odor,0.0212
+ADE_val_00001978.jpg,Fecal/ Sewery Primary odor,0.0202
+ADE_val_00001978.jpg,Human Perception Primary odor,0.0196
+labelme_bxvctltntrtinjf.jpg,City Smell Primary odor,0.1193
+labelme_bxvctltntrtinjf.jpg,Characteristic Primary odor,0.0582
+labelme_bxvctltntrtinjf.jpg,Microbiological Primary odor,0.0429
+labelme_bxvctltntrtinjf.jpg,Brown Primary odor,0.0428
+labelme_bxvctltntrtinjf.jpg,Hircine Primary odor,0.0375
+labelme_bxvctltntrtinjf.jpg,Waxy Primary odor,0.0333
+labelme_bxvctltntrtinjf.jpg,Ambrosial Primary odor,0.0266
+labelme_bxvctltntrtinjf.jpg,Alliaceous Primary odor,0.0258
+labelme_bxvctltntrtinjf.jpg,Synthetic Primary odor,0.0248
+labelme_bxvctltntrtinjf.jpg,Traffic emissions Primary odor,0.0241
+labelme_dfmtscjlgpxnxvg.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.1872
+labelme_dfmtscjlgpxnxvg.jpg,Traffic emissions Primary odor,0.1477
+labelme_dfmtscjlgpxnxvg.jpg,Fecal/ Sewery Primary odor,0.0427
+labelme_dfmtscjlgpxnxvg.jpg,Coal tar Primary odor,0.0423
+labelme_dfmtscjlgpxnxvg.jpg,Chemical/ Hydrocarbon Primary odor,0.0326
+labelme_dfmtscjlgpxnxvg.jpg,Non-food items Primary odor,0.0268
+labelme_dfmtscjlgpxnxvg.jpg,Characteristic Primary odor,0.0260
+labelme_dfmtscjlgpxnxvg.jpg,Human Perception Primary odor,0.0207
+labelme_dfmtscjlgpxnxvg.jpg,City Smell Primary odor,0.0180
+labelme_dfmtscjlgpxnxvg.jpg,Brown Primary odor,0.0151
+labelme_dvkvazcsyvkumig.jpg,City Smell Primary odor,0.4364
+labelme_dvkvazcsyvkumig.jpg,Traffic emissions Primary odor,0.1557
+labelme_dvkvazcsyvkumig.jpg,Fragrance Primary odor,0.0395
+labelme_dvkvazcsyvkumig.jpg,Characteristic Primary odor,0.0355
+labelme_dvkvazcsyvkumig.jpg,Perfumes Primary odor,0.0328
+labelme_dvkvazcsyvkumig.jpg,Human Perception Primary odor,0.0295
+labelme_dvkvazcsyvkumig.jpg,Microbiological Primary odor,0.0288
+labelme_dvkvazcsyvkumig.jpg,Synthetic Primary odor,0.0288
+labelme_dvkvazcsyvkumig.jpg,People & animals Primary odor,0.0247
+labelme_dvkvazcsyvkumig.jpg,Alliaceous Primary odor,0.0147
+labelme_fbpgpaxesdmtnqy.jpg,City Smell Primary odor,0.3228
+labelme_fbpgpaxesdmtnqy.jpg,Traffic emissions Primary odor,0.2635
+labelme_fbpgpaxesdmtnqy.jpg,Microbiological Primary odor,0.0493
+labelme_fbpgpaxesdmtnqy.jpg,Vegetation Primary odor,0.0292
+labelme_fbpgpaxesdmtnqy.jpg,Characteristic Primary odor,0.0188
+labelme_fbpgpaxesdmtnqy.jpg,Alliaceous Primary odor,0.0169
+labelme_fbpgpaxesdmtnqy.jpg,Aromatic Primary odor,0.0152
+labelme_fbpgpaxesdmtnqy.jpg,Industrial odours Primary odor,0.0134
+labelme_fbpgpaxesdmtnqy.jpg,Perfumes Primary odor,0.0111
+labelme_fbpgpaxesdmtnqy.jpg,Fragrance Primary odor,0.0100
+labelme_hueaxalkegppjob.jpg,City Smell Primary odor,0.7517
+labelme_hueaxalkegppjob.jpg,Microbiological Primary odor,0.0415
+labelme_hueaxalkegppjob.jpg,Urban Odor Primary odor,0.0141
+labelme_hueaxalkegppjob.jpg,Drinking Water Primary odor,0.0107
+labelme_hueaxalkegppjob.jpg,People & animals Primary odor,0.0099
+labelme_hueaxalkegppjob.jpg,Waste Water Primary odor,0.0098
+labelme_hueaxalkegppjob.jpg,Synthetic Primary odor,0.0097
+labelme_hueaxalkegppjob.jpg,Characteristic Primary odor,0.0079
+labelme_hueaxalkegppjob.jpg,Citrus Primary odor,0.0077
+labelme_hueaxalkegppjob.jpg,Traffic emissions Primary odor,0.0070
+labelme_ksbcdzlsogcuudh.jpg,Hircine Primary odor,0.0640
+labelme_ksbcdzlsogcuudh.jpg,Characteristic Primary odor,0.0503
+labelme_ksbcdzlsogcuudh.jpg,Ammonia Primary odor,0.0455
+labelme_ksbcdzlsogcuudh.jpg,Human Perception Primary odor,0.0443
+labelme_ksbcdzlsogcuudh.jpg,Alliaceous Primary odor,0.0402
+labelme_ksbcdzlsogcuudh.jpg,Ambrosial Primary odor,0.0396
+labelme_ksbcdzlsogcuudh.jpg,Microbiological Primary odor,0.0371
+labelme_ksbcdzlsogcuudh.jpg,Non-vegetarian Primary odor,0.0329
+labelme_ksbcdzlsogcuudh.jpg,Waste Water Primary odor,0.0305
+labelme_ksbcdzlsogcuudh.jpg,Fishy/ Ammonia Primary odor,0.0261
+labelme_kvyxvreglagziop.jpg,City Smell Primary odor,0.0756
+labelme_kvyxvreglagziop.jpg,Fecal/ Sewery Primary odor,0.0437
+labelme_kvyxvreglagziop.jpg,Brown Primary odor,0.0419
+labelme_kvyxvreglagziop.jpg,Building materials & construction Primary odor,0.0377
+labelme_kvyxvreglagziop.jpg,Urban Odor Primary odor,0.0311
+labelme_kvyxvreglagziop.jpg,Traffic emissions Primary odor,0.0284
+labelme_kvyxvreglagziop.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0284
+labelme_kvyxvreglagziop.jpg,Coal tar Primary odor,0.0264
+labelme_kvyxvreglagziop.jpg,Grassy/ Woody Primary odor,0.0244
+labelme_kvyxvreglagziop.jpg,Rotten Primary odor,0.0242
+labelme_nxqdbafndbozeee.jpg,City Smell Primary odor,0.6387
+labelme_nxqdbafndbozeee.jpg,Human Perception Primary odor,0.0454
+labelme_nxqdbafndbozeee.jpg,Characteristic Primary odor,0.0342
+labelme_nxqdbafndbozeee.jpg,Traffic emissions Primary odor,0.0261
+labelme_nxqdbafndbozeee.jpg,People & animals Primary odor,0.0210
+labelme_nxqdbafndbozeee.jpg,Non-food items Primary odor,0.0164
+labelme_nxqdbafndbozeee.jpg,Urban Odor Primary odor,0.0134
+labelme_nxqdbafndbozeee.jpg,Coal tar Primary odor,0.0133
+labelme_nxqdbafndbozeee.jpg,Microbiological Primary odor,0.0130
+labelme_nxqdbafndbozeee.jpg,Synthetic Primary odor,0.0109
+labelme_rbjlgswhtdvdpju.jpg,City Smell Primary odor,0.6147
+labelme_rbjlgswhtdvdpju.jpg,Traffic emissions Primary odor,0.1272
+labelme_rbjlgswhtdvdpju.jpg,Fecal/ Sewery Primary odor,0.0318
+labelme_rbjlgswhtdvdpju.jpg,Urban Odor Primary odor,0.0166
+labelme_rbjlgswhtdvdpju.jpg,Microbiological Primary odor,0.0109
+labelme_rbjlgswhtdvdpju.jpg,Characteristic Primary odor,0.0099
+labelme_rbjlgswhtdvdpju.jpg,People & animals Primary odor,0.0072
+labelme_rbjlgswhtdvdpju.jpg,Alliaceous Primary odor,0.0071
+labelme_rbjlgswhtdvdpju.jpg,Brown Primary odor,0.0067
+labelme_rbjlgswhtdvdpju.jpg,Non-food items Primary odor,0.0062
+labelme_teeducufjdaxjgm.jpg,Waste Water Primary odor,0.0869
+labelme_teeducufjdaxjgm.jpg,Coal tar Primary odor,0.0757
+labelme_teeducufjdaxjgm.jpg,Hircine Primary odor,0.0594
+labelme_teeducufjdaxjgm.jpg,Microbiological Primary odor,0.0553
+labelme_teeducufjdaxjgm.jpg,Building materials & construction Primary odor,0.0516
+labelme_teeducufjdaxjgm.jpg,Ammonia Primary odor,0.0490
+labelme_teeducufjdaxjgm.jpg,Industrial odours Primary odor,0.0408
+labelme_teeducufjdaxjgm.jpg,Chemical/ Hydrocarbon Primary odor,0.0337
+labelme_teeducufjdaxjgm.jpg,Grassy/ Woody Primary odor,0.0266
+labelme_teeducufjdaxjgm.jpg,Characteristic Primary odor,0.0257
+labelme_uajxqteglcbqwaw.jpg,City Smell Primary odor,0.2946
+labelme_uajxqteglcbqwaw.jpg,Traffic emissions Primary odor,0.1112
+labelme_uajxqteglcbqwaw.jpg,Microbiological Primary odor,0.0605
+labelme_uajxqteglcbqwaw.jpg,Perfumes Primary odor,0.0520
+labelme_uajxqteglcbqwaw.jpg,Characteristic Primary odor,0.0505
+labelme_uajxqteglcbqwaw.jpg,Hircine Primary odor,0.0265
+labelme_uajxqteglcbqwaw.jpg,Waste Water Primary odor,0.0239
+labelme_uajxqteglcbqwaw.jpg,Fragrance Primary odor,0.0226
+labelme_uajxqteglcbqwaw.jpg,Industrial odours Primary odor,0.0184
+labelme_uajxqteglcbqwaw.jpg,Aromatic Primary odor,0.0161
+labelme_uiegyqlthmrvvmt.jpg,Traffic emissions Primary odor,0.5603
+labelme_uiegyqlthmrvvmt.jpg,Microbiological Primary odor,0.0507
+labelme_uiegyqlthmrvvmt.jpg,Coal tar Primary odor,0.0346
+labelme_uiegyqlthmrvvmt.jpg,Industrial odours Primary odor,0.0344
+labelme_uiegyqlthmrvvmt.jpg,Aromatic Primary odor,0.0320
+labelme_uiegyqlthmrvvmt.jpg,City Smell Primary odor,0.0282
+labelme_uiegyqlthmrvvmt.jpg,Characteristic Primary odor,0.0278
+labelme_uiegyqlthmrvvmt.jpg,Synthetic Primary odor,0.0150
+labelme_uiegyqlthmrvvmt.jpg,Medicinal/ Phenolic Primary odor,0.0116
+labelme_uiegyqlthmrvvmt.jpg,Vegetation Primary odor,0.0105
+labelme_ukezunjodtimqkc.jpg,City Smell Primary odor,0.1564
+labelme_ukezunjodtimqkc.jpg,Restaurant Primary odor,0.0963
+labelme_ukezunjodtimqkc.jpg,Traffic emissions Primary odor,0.0715
+labelme_ukezunjodtimqkc.jpg,Characteristic Primary odor,0.0471
+labelme_ukezunjodtimqkc.jpg,Microbiological Primary odor,0.0460
+labelme_ukezunjodtimqkc.jpg,Alliaceous Primary odor,0.0283
+labelme_ukezunjodtimqkc.jpg,Mossy woods Primary odor,0.0257
+labelme_ukezunjodtimqkc.jpg,Ambrosial Primary odor,0.0248
+labelme_ukezunjodtimqkc.jpg,Human Perception Primary odor,0.0232
+labelme_ukezunjodtimqkc.jpg,Hircine Primary odor,0.0229
+labelme_xewvmwvhbbexpwl.jpg,Ambrosial Primary odor,0.0751
+labelme_xewvmwvhbbexpwl.jpg,Restaurant Primary odor,0.0701
+labelme_xewvmwvhbbexpwl.jpg,Hircine Primary odor,0.0644
+labelme_xewvmwvhbbexpwl.jpg,Aromatic Primary odor,0.0471
+labelme_xewvmwvhbbexpwl.jpg,Characteristic Primary odor,0.0448
+labelme_xewvmwvhbbexpwl.jpg,Microbiological Primary odor,0.0445
+labelme_xewvmwvhbbexpwl.jpg,Citrus Primary odor,0.0392
+labelme_xewvmwvhbbexpwl.jpg,City Smell Primary odor,0.0391
+labelme_xewvmwvhbbexpwl.jpg,Wine Primary odor,0.0265
+labelme_xewvmwvhbbexpwl.jpg,Balsamic Primary odor,0.0254
+labelme_xthqmdozlpcfeah.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.2365
+labelme_xthqmdozlpcfeah.jpg,Coal tar Primary odor,0.2067
+labelme_xthqmdozlpcfeah.jpg,Fecal/ Sewery Primary odor,0.0587
+labelme_xthqmdozlpcfeah.jpg,Waste Water Primary odor,0.0453
+labelme_xthqmdozlpcfeah.jpg,Cleaning materials Primary odor,0.0384
+labelme_xthqmdozlpcfeah.jpg,Restaurant Primary odor,0.0291
+labelme_xthqmdozlpcfeah.jpg,Industrial odours Primary odor,0.0251
+labelme_xthqmdozlpcfeah.jpg,City Smell Primary odor,0.0209
+labelme_xthqmdozlpcfeah.jpg,Building materials & construction Primary odor,0.0199
+labelme_xthqmdozlpcfeah.jpg,Brown Primary odor,0.0194
+sun_aaafnwawebvhgkpx.jpg,Restaurant Primary odor,0.1044
+sun_aaafnwawebvhgkpx.jpg,Bakery Primary odor,0.0506
+sun_aaafnwawebvhgkpx.jpg,Balsamic Primary odor,0.0454
+sun_aaafnwawebvhgkpx.jpg,Synthetic Primary odor,0.0352
+sun_aaafnwawebvhgkpx.jpg,Ambrosial Primary odor,0.0271
+sun_aaafnwawebvhgkpx.jpg,Popcorn Primary odor,0.0263
+sun_aaafnwawebvhgkpx.jpg,Hircine Primary odor,0.0247
+sun_aaafnwawebvhgkpx.jpg,Chocolate Primary odor,0.0239
+sun_aaafnwawebvhgkpx.jpg,Fragrance Primary odor,0.0217
+sun_aaafnwawebvhgkpx.jpg,Grains Primary odor,0.0206
+sun_aaeixvafoltxhilv.jpg,Restaurant Primary odor,0.4412
+sun_aaeixvafoltxhilv.jpg,Cleaning materials Primary odor,0.0349
+sun_aaeixvafoltxhilv.jpg,Non-food items Primary odor,0.0326
+sun_aaeixvafoltxhilv.jpg,Microbiological Primary odor,0.0241
+sun_aaeixvafoltxhilv.jpg,Grains Primary odor,0.0240
+sun_aaeixvafoltxhilv.jpg,Wine Primary odor,0.0215
+sun_aaeixvafoltxhilv.jpg,Food Primary odor,0.0202
+sun_aaeixvafoltxhilv.jpg,Building materials & construction Primary odor,0.0184
+sun_aaeixvafoltxhilv.jpg,Perfumes Primary odor,0.0174
+sun_aaeixvafoltxhilv.jpg,Foul Primary odor,0.0173
+sun_aajqjnzswlmdcmyl.jpg,City Smell Primary odor,0.3071
+sun_aajqjnzswlmdcmyl.jpg,Traffic emissions Primary odor,0.1050
+sun_aajqjnzswlmdcmyl.jpg,Fecal/ Sewery Primary odor,0.0478
+sun_aajqjnzswlmdcmyl.jpg,Building materials & construction Primary odor,0.0269
+sun_aajqjnzswlmdcmyl.jpg,Synthetic Primary odor,0.0264
+sun_aajqjnzswlmdcmyl.jpg,Cleaning materials Primary odor,0.0264
+sun_aajqjnzswlmdcmyl.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0227
+sun_aajqjnzswlmdcmyl.jpg,Industrial odours Primary odor,0.0221
+sun_aajqjnzswlmdcmyl.jpg,Microbiological Primary odor,0.0218
+sun_aajqjnzswlmdcmyl.jpg,Non-food items Primary odor,0.0213
+sun_abjkbiowonmjypvw.jpg,Coal tar Primary odor,0.0691
+sun_abjkbiowonmjypvw.jpg,Grassy/ Woody Primary odor,0.0467
+sun_abjkbiowonmjypvw.jpg,Woody Primary odor,0.0458
+sun_abjkbiowonmjypvw.jpg,Earthy/ Musty/ Moldy Primary odor,0.0320
+sun_abjkbiowonmjypvw.jpg,Characteristic Primary odor,0.0302
+sun_abjkbiowonmjypvw.jpg,Brown Primary odor,0.0298
+sun_abjkbiowonmjypvw.jpg,Waste Water Primary odor,0.0265
+sun_abjkbiowonmjypvw.jpg,Nature Primary odor,0.0253
+sun_abjkbiowonmjypvw.jpg,Dry woods Primary odor,0.0191
+sun_abjkbiowonmjypvw.jpg,Other Primary odor,0.0182
+sun_abjkyoaboisttjmi.jpg,Perfumes Primary odor,0.0832
+sun_abjkyoaboisttjmi.jpg,Ylang Primary odor,0.0668
+sun_abjkyoaboisttjmi.jpg,Waste Water Primary odor,0.0588
+sun_abjkyoaboisttjmi.jpg,Hircine Primary odor,0.0533
+sun_abjkyoaboisttjmi.jpg,Restaurant Primary odor,0.0459
+sun_abjkyoaboisttjmi.jpg,Water Primary odor,0.0351
+sun_abjkyoaboisttjmi.jpg,Industrial odours Primary odor,0.0334
+sun_abjkyoaboisttjmi.jpg,Synthetic Primary odor,0.0330
+sun_abjkyoaboisttjmi.jpg,Fragrance Primary odor,0.0304
+sun_abjkyoaboisttjmi.jpg,Drinking Water Primary odor,0.0292
+sun_abptkhloebztzify.jpg,Cleaning materials Primary odor,0.0870
+sun_abptkhloebztzify.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0694
+sun_abptkhloebztzify.jpg,Building materials & construction Primary odor,0.0400
+sun_abptkhloebztzify.jpg,Aromatic Primary odor,0.0353
+sun_abptkhloebztzify.jpg,Woody/ Resinous Primary odor,0.0335
+sun_abptkhloebztzify.jpg,Characteristic Primary odor,0.0314
+sun_abptkhloebztzify.jpg,Mossy woods Primary odor,0.0304
+sun_abptkhloebztzify.jpg,Dry woods Primary odor,0.0259
+sun_abptkhloebztzify.jpg,Fecal/ Sewery Primary odor,0.0249
+sun_abptkhloebztzify.jpg,Medicinal/ Alcohol Primary odor,0.0219
+sun_acdlgczjpwkeuvgy.jpg,Cleaning materials Primary odor,0.4456
+sun_acdlgczjpwkeuvgy.jpg,Non-food items Primary odor,0.0882
+sun_acdlgczjpwkeuvgy.jpg,Building materials & construction Primary odor,0.0483
+sun_acdlgczjpwkeuvgy.jpg,Ripe/ Unripe Primary odor,0.0245
+sun_acdlgczjpwkeuvgy.jpg,Restaurant Primary odor,0.0218
+sun_acdlgczjpwkeuvgy.jpg,Fecal/ Sewery Primary odor,0.0152
+sun_acdlgczjpwkeuvgy.jpg,Microbiological Primary odor,0.0137
+sun_acdlgczjpwkeuvgy.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0118
+sun_acdlgczjpwkeuvgy.jpg,Plants Primary odor,0.0109
+sun_acdlgczjpwkeuvgy.jpg,Medicinal/ Phenolic Primary odor,0.0108
+sun_acnsvvdtsvgmavud.jpg,Building materials & construction Primary odor,0.3403
+sun_acnsvvdtsvgmavud.jpg,Cleaning materials Primary odor,0.0858
+sun_acnsvvdtsvgmavud.jpg,Brown Primary odor,0.0378
+sun_acnsvvdtsvgmavud.jpg,Grassy/ Woody Primary odor,0.0309
+sun_acnsvvdtsvgmavud.jpg,Fecal/ Sewery Primary odor,0.0271
+sun_acnsvvdtsvgmavud.jpg,Woody Primary odor,0.0270
+sun_acnsvvdtsvgmavud.jpg,Industrial odours Primary odor,0.0256
+sun_acnsvvdtsvgmavud.jpg,Earthy/ Musty/ Moldy Primary odor,0.0187
+sun_acnsvvdtsvgmavud.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0178
+sun_acnsvvdtsvgmavud.jpg,Waste Water Primary odor,0.0176
+sun_adiseghgpfylsbrh.jpg,Cleaning materials Primary odor,0.4114
+sun_adiseghgpfylsbrh.jpg,Non-food items Primary odor,0.0442
+sun_adiseghgpfylsbrh.jpg,Ylang Primary odor,0.0329
+sun_adiseghgpfylsbrh.jpg,Plants Primary odor,0.0223
+sun_adiseghgpfylsbrh.jpg,Woody/ Resinous Primary odor,0.0198
+sun_adiseghgpfylsbrh.jpg,Characteristic Primary odor,0.0194
+sun_adiseghgpfylsbrh.jpg,Wine Primary odor,0.0187
+sun_adiseghgpfylsbrh.jpg,Aromatic Primary odor,0.0148
+sun_adiseghgpfylsbrh.jpg,Vegetation Primary odor,0.0140
+sun_adiseghgpfylsbrh.jpg,Fecal/ Sewery Primary odor,0.0138
+sun_aeauzpesdtbrujrr.jpg,Perfumes Primary odor,0.1063
+sun_aeauzpesdtbrujrr.jpg,Fragrance Primary odor,0.0591
+sun_aeauzpesdtbrujrr.jpg,Cleaning materials Primary odor,0.0529
+sun_aeauzpesdtbrujrr.jpg,Tobacco smoke Primary odor,0.0480
+sun_aeauzpesdtbrujrr.jpg,Restaurant Primary odor,0.0369
+sun_aeauzpesdtbrujrr.jpg,Chocolate Primary odor,0.0343
+sun_aeauzpesdtbrujrr.jpg,Medicinal/ Alcohol Primary odor,0.0319
+sun_aeauzpesdtbrujrr.jpg,Human Perception Primary odor,0.0283
+sun_aeauzpesdtbrujrr.jpg,Aromatic Primary odor,0.0273
+sun_aeauzpesdtbrujrr.jpg,Foul Primary odor,0.0223
+sun_aegzcnuxtvoxtlmw.jpg,Cleaning materials Primary odor,0.2086
+sun_aegzcnuxtvoxtlmw.jpg,Fecal/ Sewery Primary odor,0.1639
+sun_aegzcnuxtvoxtlmw.jpg,Restaurant Primary odor,0.1094
+sun_aegzcnuxtvoxtlmw.jpg,Building materials & construction Primary odor,0.0459
+sun_aegzcnuxtvoxtlmw.jpg,Waste Water Primary odor,0.0386
+sun_aegzcnuxtvoxtlmw.jpg,Water Primary odor,0.0257
+sun_aegzcnuxtvoxtlmw.jpg,Drinking Water Primary odor,0.0239
+sun_aegzcnuxtvoxtlmw.jpg,Microbial Primary odor,0.0189
+sun_aegzcnuxtvoxtlmw.jpg,Human Perception Primary odor,0.0186
+sun_aegzcnuxtvoxtlmw.jpg,Industrial odours Primary odor,0.0157
+sun_aenzryhupalpotjl.jpg,City Smell Primary odor,0.1784
+sun_aenzryhupalpotjl.jpg,Drinking Water Primary odor,0.1237
+sun_aenzryhupalpotjl.jpg,Water Primary odor,0.0537
+sun_aenzryhupalpotjl.jpg,People & animals Primary odor,0.0423
+sun_aenzryhupalpotjl.jpg,Waste Water Primary odor,0.0321
+sun_aenzryhupalpotjl.jpg,Fishy/ Rancid Primary odor,0.0235
+sun_aenzryhupalpotjl.jpg,Cleaning materials Primary odor,0.0229
+sun_aenzryhupalpotjl.jpg,Coal tar Primary odor,0.0212
+sun_aenzryhupalpotjl.jpg,Fecal/ Sewery Primary odor,0.0202
+sun_aenzryhupalpotjl.jpg,Human Perception Primary odor,0.0196
+sun_aepclyjnqchhsigu.jpg,Grassy/ Woody Primary odor,0.0927
+sun_aepclyjnqchhsigu.jpg,Fecal/ Sewery Primary odor,0.0747
+sun_aepclyjnqchhsigu.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0630
+sun_aepclyjnqchhsigu.jpg,Dairy Primary odor,0.0353
+sun_aepclyjnqchhsigu.jpg,Medicinal/ Phenolic Primary odor,0.0339
+sun_aepclyjnqchhsigu.jpg,Medicinal/ Alcohol Primary odor,0.0313
+sun_aepclyjnqchhsigu.jpg,People & animals Primary odor,0.0304
+sun_aepclyjnqchhsigu.jpg,Microbiological Primary odor,0.0283
+sun_aepclyjnqchhsigu.jpg,Vegetation Primary odor,0.0278
+sun_aepclyjnqchhsigu.jpg,Drinking Water Primary odor,0.0257
+sun_aevqjxkcmdzqzzhd.jpg,Cleaning materials Primary odor,0.1146
+sun_aevqjxkcmdzqzzhd.jpg,Aromatic Primary odor,0.0617
+sun_aevqjxkcmdzqzzhd.jpg,Ylang Primary odor,0.0392
+sun_aevqjxkcmdzqzzhd.jpg,Dry fruit Primary odor,0.0383
+sun_aevqjxkcmdzqzzhd.jpg,Building materials & construction Primary odor,0.0380
+sun_aevqjxkcmdzqzzhd.jpg,Hircine Primary odor,0.0378
+sun_aevqjxkcmdzqzzhd.jpg,Coal tar Primary odor,0.0311
+sun_aevqjxkcmdzqzzhd.jpg,Medicinal/ Phenolic Primary odor,0.0304
+sun_aevqjxkcmdzqzzhd.jpg,Characteristic Primary odor,0.0287
+sun_aevqjxkcmdzqzzhd.jpg,Cloth Primary odor,0.0246
+sun_aeyxnsjrnbdhbesx.jpg,Cleaning materials Primary odor,0.0793
+sun_aeyxnsjrnbdhbesx.jpg,Brown Primary odor,0.0570
+sun_aeyxnsjrnbdhbesx.jpg,Dry woods Primary odor,0.0403
+sun_aeyxnsjrnbdhbesx.jpg,Fecal/ Sewery Primary odor,0.0348
+sun_aeyxnsjrnbdhbesx.jpg,Building materials & construction Primary odor,0.0335
+sun_aeyxnsjrnbdhbesx.jpg,Ambrosial Primary odor,0.0316
+sun_aeyxnsjrnbdhbesx.jpg,City Smell Primary odor,0.0294
+sun_aeyxnsjrnbdhbesx.jpg,Coal tar Primary odor,0.0224
+sun_aeyxnsjrnbdhbesx.jpg,Sulphur/ Cabbage/ Garlic Primary odor,0.0210
+sun_aeyxnsjrnbdhbesx.jpg,Waxy Primary odor,0.0207
+sun_afndasonamlaolbl.jpg,Cleaning materials Primary odor,0.1783
+sun_afndasonamlaolbl.jpg,Fecal/ Sewery Primary odor,0.0841
+sun_afndasonamlaolbl.jpg,Coal tar Primary odor,0.0619
+sun_afndasonamlaolbl.jpg,Building materials & construction Primary odor,0.0466
+sun_afndasonamlaolbl.jpg,Brown Primary odor,0.0376
+sun_afndasonamlaolbl.jpg,Restaurant Primary odor,0.0265
+sun_afndasonamlaolbl.jpg,Grains Primary odor,0.0232
+sun_afndasonamlaolbl.jpg,Ripe/ Unripe Primary odor,0.0192
+sun_afndasonamlaolbl.jpg,Lemon Primary odor,0.0180
+sun_afndasonamlaolbl.jpg,Spices Primary odor,0.0166
+sun_afqecbbwvpxqcuew.jpg,Herbaceous Primary odor,0.1058
+sun_afqecbbwvpxqcuew.jpg,Plants Primary odor,0.1009
+sun_afqecbbwvpxqcuew.jpg,Fragrant/ Fruity Primary odor,0.0964
+sun_afqecbbwvpxqcuew.jpg,Fragrant Primary odor,0.0419
+sun_afqecbbwvpxqcuew.jpg,Vegetation Primary odor,0.0406
+sun_afqecbbwvpxqcuew.jpg,Floral Primary odor,0.0388
+sun_afqecbbwvpxqcuew.jpg,Drinking Water Primary odor,0.0382
+sun_afqecbbwvpxqcuew.jpg,Perfumes Primary odor,0.0360
+sun_afqecbbwvpxqcuew.jpg,Fragrance Primary odor,0.0228
+sun_afqecbbwvpxqcuew.jpg,Soft floral Primary odor,0.0223
+sun_afqhutovoyopjklj.jpg,Microbiological Primary odor,0.0766
+sun_afqhutovoyopjklj.jpg,Fecal/ Sewery Primary odor,0.0646
+sun_afqhutovoyopjklj.jpg,Restaurant Primary odor,0.0371
+sun_afqhutovoyopjklj.jpg,Industrial odours Primary odor,0.0318
+sun_afqhutovoyopjklj.jpg,Cleaning materials Primary odor,0.0318
+sun_afqhutovoyopjklj.jpg,Human Perception Primary odor,0.0257
+sun_afqhutovoyopjklj.jpg,City Smell Primary odor,0.0239
+sun_afqhutovoyopjklj.jpg,Brown Primary odor,0.0237
+sun_afqhutovoyopjklj.jpg,Foul Primary odor,0.0227
+sun_afqhutovoyopjklj.jpg,Citrus Primary odor,0.0218
+sun_afreqryibyksnmev.jpg,Cleaning materials Primary odor,0.1975
+sun_afreqryibyksnmev.jpg,Clean Primary odor,0.0382
+sun_afreqryibyksnmev.jpg,Wine Primary odor,0.0317
+sun_afreqryibyksnmev.jpg,Building materials & construction Primary odor,0.0250
+sun_afreqryibyksnmev.jpg,Foul Primary odor,0.0240
+sun_afreqryibyksnmev.jpg,Restaurant Primary odor,0.0233
+sun_afreqryibyksnmev.jpg,Balsamic Primary odor,0.0232
+sun_afreqryibyksnmev.jpg,Characteristic Primary odor,0.0206
+sun_afreqryibyksnmev.jpg,Human Perception Primary odor,0.0205
+sun_afreqryibyksnmev.jpg,Ylang Primary odor,0.0200
+sun_aftwrmahenhkilad.jpg,Building materials & construction Primary odor,0.1151
+sun_aftwrmahenhkilad.jpg,Cleaning materials Primary odor,0.0898
+sun_aftwrmahenhkilad.jpg,Restaurant Primary odor,0.0821
+sun_aftwrmahenhkilad.jpg,Grains Primary odor,0.0376
+sun_aftwrmahenhkilad.jpg,Brown Primary odor,0.0271
+sun_aftwrmahenhkilad.jpg,Mossy woods Primary odor,0.0247
+sun_aftwrmahenhkilad.jpg,Dry woods Primary odor,0.0234
+sun_aftwrmahenhkilad.jpg,Waste Water Primary odor,0.0218
+sun_aftwrmahenhkilad.jpg,Fecal/ Sewery Primary odor,0.0214
+sun_aftwrmahenhkilad.jpg,Aromatic Primary odor,0.0207
+sun_agcwankggrotikly.jpg,Cleaning materials Primary odor,0.2594
+sun_agcwankggrotikly.jpg,Non-food items Primary odor,0.1476
+sun_agcwankggrotikly.jpg,Building materials & construction Primary odor,0.1256
+sun_agcwankggrotikly.jpg,People & animals Primary odor,0.0674
+sun_agcwankggrotikly.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0585
+sun_agcwankggrotikly.jpg,Industrial odours Primary odor,0.0238
+sun_agcwankggrotikly.jpg,Human Perception Primary odor,0.0178
+sun_agcwankggrotikly.jpg,Microbiological Primary odor,0.0172
+sun_agcwankggrotikly.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0127
+sun_agcwankggrotikly.jpg,Synthetic Primary odor,0.0126
+sun_aiaolaigwstmdabl.jpg,Cleaning materials Primary odor,0.3481
+sun_aiaolaigwstmdabl.jpg,Non-food items Primary odor,0.1948
+sun_aiaolaigwstmdabl.jpg,Building materials & construction Primary odor,0.0307
+sun_aiaolaigwstmdabl.jpg,City Smell Primary odor,0.0219
+sun_aiaolaigwstmdabl.jpg,Restaurant Primary odor,0.0164
+sun_aiaolaigwstmdabl.jpg,Industrial odours Primary odor,0.0156
+sun_aiaolaigwstmdabl.jpg,Vegetation Primary odor,0.0146
+sun_aiaolaigwstmdabl.jpg,Sharp/ Pungent Primary odor,0.0133
+sun_aiaolaigwstmdabl.jpg,Spices Primary odor,0.0133
+sun_aiaolaigwstmdabl.jpg,Food Primary odor,0.0125
+sun_aiiubfphimhxnlkk.jpg,Building materials & construction Primary odor,0.4495
+sun_aiiubfphimhxnlkk.jpg,Waste Water Primary odor,0.1075
+sun_aiiubfphimhxnlkk.jpg,Microbiological Primary odor,0.0694
+sun_aiiubfphimhxnlkk.jpg,Waste Primary odor,0.0685
+sun_aiiubfphimhxnlkk.jpg,Synthetic Primary odor,0.0159
+sun_aiiubfphimhxnlkk.jpg,Microbial Primary odor,0.0155
+sun_aiiubfphimhxnlkk.jpg,Non-vegetarian Primary odor,0.0126
+sun_aiiubfphimhxnlkk.jpg,Hircine Primary odor,0.0123
+sun_aiiubfphimhxnlkk.jpg,Dry fruit Primary odor,0.0112
+sun_aiiubfphimhxnlkk.jpg,Compost Primary odor,0.0110
+sun_ajcalpgflrfvhhhw.jpg,Fragrant/ Fruity Primary odor,0.0753
+sun_ajcalpgflrfvhhhw.jpg,Drinking Water Primary odor,0.0707
+sun_ajcalpgflrfvhhhw.jpg,Vegetation Primary odor,0.0537
+sun_ajcalpgflrfvhhhw.jpg,Perfumes Primary odor,0.0483
+sun_ajcalpgflrfvhhhw.jpg,Fragrance Primary odor,0.0386
+sun_ajcalpgflrfvhhhw.jpg,Microbiological Primary odor,0.0357
+sun_ajcalpgflrfvhhhw.jpg,Plants Primary odor,0.0351
+sun_ajcalpgflrfvhhhw.jpg,Characteristic Primary odor,0.0330
+sun_ajcalpgflrfvhhhw.jpg,People & animals Primary odor,0.0329
+sun_ajcalpgflrfvhhhw.jpg,Medicinal/ Phenolic Primary odor,0.0308
+sun_ajhljrrlroysumtf.jpg,Cleaning materials Primary odor,0.3736
+sun_ajhljrrlroysumtf.jpg,Non-food items Primary odor,0.2184
+sun_ajhljrrlroysumtf.jpg,Food Primary odor,0.0411
+sun_ajhljrrlroysumtf.jpg,Balsamic Primary odor,0.0302
+sun_ajhljrrlroysumtf.jpg,Plants Primary odor,0.0199
+sun_ajhljrrlroysumtf.jpg,Spices Primary odor,0.0198
+sun_ajhljrrlroysumtf.jpg,Dry fruit Primary odor,0.0187
+sun_ajhljrrlroysumtf.jpg,Building materials & construction Primary odor,0.0159
+sun_ajhljrrlroysumtf.jpg,Wine Primary odor,0.0157
+sun_ajhljrrlroysumtf.jpg,Restaurant Primary odor,0.0146
+sun_akbbxewfnuxtxfkd.jpg,Ambrosial Primary odor,0.0878
+sun_akbbxewfnuxtxfkd.jpg,Characteristic Primary odor,0.0748
+sun_akbbxewfnuxtxfkd.jpg,City Smell Primary odor,0.0624
+sun_akbbxewfnuxtxfkd.jpg,Waste Water Primary odor,0.0563
+sun_akbbxewfnuxtxfkd.jpg,Oriental Primary odor,0.0528
+sun_akbbxewfnuxtxfkd.jpg,Microbiological Primary odor,0.0485
+sun_akbbxewfnuxtxfkd.jpg,Industrial odours Primary odor,0.0402
+sun_akbbxewfnuxtxfkd.jpg,Perfumes Primary odor,0.0384
+sun_akbbxewfnuxtxfkd.jpg,Building materials & construction Primary odor,0.0370
+sun_akbbxewfnuxtxfkd.jpg,Synthetic Primary odor,0.0290
+sun_akeacyqqafcecdbg.jpg,Ambrosial Primary odor,0.0787
+sun_akeacyqqafcecdbg.jpg,Hircine Primary odor,0.0691
+sun_akeacyqqafcecdbg.jpg,Microbiological Primary odor,0.0657
+sun_akeacyqqafcecdbg.jpg,City Smell Primary odor,0.0604
+sun_akeacyqqafcecdbg.jpg,Characteristic Primary odor,0.0547
+sun_akeacyqqafcecdbg.jpg,Grains Primary odor,0.0272
+sun_akeacyqqafcecdbg.jpg,Waste Primary odor,0.0260
+sun_akeacyqqafcecdbg.jpg,Alliaceous Primary odor,0.0239
+sun_akeacyqqafcecdbg.jpg,Waste Water Primary odor,0.0210
+sun_akeacyqqafcecdbg.jpg,Mossy woods Primary odor,0.0199
+sun_akzskyczltnifnbv.jpg,Cleaning materials Primary odor,0.1649
+sun_akzskyczltnifnbv.jpg,Ylang Primary odor,0.1144
+sun_akzskyczltnifnbv.jpg,Woody oriental Primary odor,0.0484
+sun_akzskyczltnifnbv.jpg,Building materials & construction Primary odor,0.0466
+sun_akzskyczltnifnbv.jpg,Restaurant Primary odor,0.0425
+sun_akzskyczltnifnbv.jpg,Dry fruit Primary odor,0.0346
+sun_akzskyczltnifnbv.jpg,Aromatic Primary odor,0.0342
+sun_akzskyczltnifnbv.jpg,Characteristic Primary odor,0.0247
+sun_akzskyczltnifnbv.jpg,Medicinal/ Phenolic Primary odor,0.0237
+sun_akzskyczltnifnbv.jpg,Vegetation Primary odor,0.0192
+sun_aleuusbwkobwettd.jpg,Cleaning materials Primary odor,0.1475
+sun_aleuusbwkobwettd.jpg,Fragrance Primary odor,0.0527
+sun_aleuusbwkobwettd.jpg,Characteristic Primary odor,0.0420
+sun_aleuusbwkobwettd.jpg,Ambrosial Primary odor,0.0401
+sun_aleuusbwkobwettd.jpg,Perfumes Primary odor,0.0399
+sun_aleuusbwkobwettd.jpg,Microbiological Primary odor,0.0244
+sun_aleuusbwkobwettd.jpg,Balsamic Primary odor,0.0241
+sun_aleuusbwkobwettd.jpg,Hircine Primary odor,0.0224
+sun_aleuusbwkobwettd.jpg,Cloth Primary odor,0.0221
+sun_aleuusbwkobwettd.jpg,Aromatic Primary odor,0.0176
+sun_aliluoapadnpobus.jpg,City Smell Primary odor,0.2414
+sun_aliluoapadnpobus.jpg,Microbiological Primary odor,0.1693
+sun_aliluoapadnpobus.jpg,Hircine Primary odor,0.0336
+sun_aliluoapadnpobus.jpg,Waste Water Primary odor,0.0279
+sun_aliluoapadnpobus.jpg,Ambrosial Primary odor,0.0267
+sun_aliluoapadnpobus.jpg,Perfumes Primary odor,0.0224
+sun_aliluoapadnpobus.jpg,Fecal/ Sewery Primary odor,0.0212
+sun_aliluoapadnpobus.jpg,Citrus Primary odor,0.0207
+sun_aliluoapadnpobus.jpg,Non-vegetarian Primary odor,0.0207
+sun_aliluoapadnpobus.jpg,Grains Primary odor,0.0185
+sun_altwjhscqoydayov.jpg,City Smell Primary odor,0.0961
+sun_altwjhscqoydayov.jpg,Alliaceous Primary odor,0.0701
+sun_altwjhscqoydayov.jpg,Non-food items Primary odor,0.0635
+sun_altwjhscqoydayov.jpg,Herbaceous Primary odor,0.0585
+sun_altwjhscqoydayov.jpg,Building materials & construction Primary odor,0.0461
+sun_altwjhscqoydayov.jpg,Waste Water Primary odor,0.0382
+sun_altwjhscqoydayov.jpg,Cleaning materials Primary odor,0.0318
+sun_altwjhscqoydayov.jpg,People & animals Primary odor,0.0309
+sun_altwjhscqoydayov.jpg,Medicinal/ Phenolic Primary odor,0.0256
+sun_altwjhscqoydayov.jpg,Human Perception Primary odor,0.0239
+sun_amyfrjfsypqohzav.jpg,Drinking Water Primary odor,0.2973
+sun_amyfrjfsypqohzav.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.1085
+sun_amyfrjfsypqohzav.jpg,People & animals Primary odor,0.0987
+sun_amyfrjfsypqohzav.jpg,Water Primary odor,0.0509
+sun_amyfrjfsypqohzav.jpg,Waste Water Primary odor,0.0410
+sun_amyfrjfsypqohzav.jpg,Human Perception Primary odor,0.0391
+sun_amyfrjfsypqohzav.jpg,Alliaceous Primary odor,0.0327
+sun_amyfrjfsypqohzav.jpg,Aromatic Primary odor,0.0199
+sun_amyfrjfsypqohzav.jpg,Nature Primary odor,0.0186
+sun_amyfrjfsypqohzav.jpg,City Smell Primary odor,0.0141
+sun_angihfcdleudgnvr.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.2068
+sun_angihfcdleudgnvr.jpg,Cleaning materials Primary odor,0.1041
+sun_angihfcdleudgnvr.jpg,Industrial odours Primary odor,0.0810
+sun_angihfcdleudgnvr.jpg,Coal tar Primary odor,0.0334
+sun_angihfcdleudgnvr.jpg,Building materials & construction Primary odor,0.0300
+sun_angihfcdleudgnvr.jpg,Fecal/ Sewery Primary odor,0.0235
+sun_angihfcdleudgnvr.jpg,Medicinal/ Phenolic Primary odor,0.0222
+sun_angihfcdleudgnvr.jpg,Aromatic Primary odor,0.0170
+sun_angihfcdleudgnvr.jpg,Restaurant Primary odor,0.0168
+sun_angihfcdleudgnvr.jpg,People & animals Primary odor,0.0154
+sun_annhmcysnhhysgnz.jpg,Restaurant Primary odor,0.6028
+sun_annhmcysnhhysgnz.jpg,Non-food items Primary odor,0.0419
+sun_annhmcysnhhysgnz.jpg,Cleaning materials Primary odor,0.0381
+sun_annhmcysnhhysgnz.jpg,Building materials & construction Primary odor,0.0355
+sun_annhmcysnhhysgnz.jpg,Balsamic Primary odor,0.0102
+sun_annhmcysnhhysgnz.jpg,Fecal/ Sewery Primary odor,0.0098
+sun_annhmcysnhhysgnz.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0098
+sun_annhmcysnhhysgnz.jpg,Wine Primary odor,0.0091
+sun_annhmcysnhhysgnz.jpg,Spices Primary odor,0.0086
+sun_annhmcysnhhysgnz.jpg,Aromatic Primary odor,0.0067
+sun_anuocfbudybnkgtg.jpg,Waste Water Primary odor,0.4585
+sun_anuocfbudybnkgtg.jpg,Drinking Water Primary odor,0.1657
+sun_anuocfbudybnkgtg.jpg,Water Primary odor,0.1214
+sun_anuocfbudybnkgtg.jpg,City Smell Primary odor,0.0274
+sun_anuocfbudybnkgtg.jpg,Microbiological Primary odor,0.0162
+sun_anuocfbudybnkgtg.jpg,Synthetic Primary odor,0.0147
+sun_anuocfbudybnkgtg.jpg,Marshy/ Septic/ Sulphurous Primary odor,0.0135
+sun_anuocfbudybnkgtg.jpg,Industrial odours Primary odor,0.0113
+sun_anuocfbudybnkgtg.jpg,Cleaning materials Primary odor,0.0102
+sun_anuocfbudybnkgtg.jpg,Fecal/ Sewery Primary odor,0.0102
+sun_anzyycgyacnppfws.jpg,Building materials & construction Primary odor,0.1482
+sun_anzyycgyacnppfws.jpg,Cleaning materials Primary odor,0.1190
+sun_anzyycgyacnppfws.jpg,Aromatic Primary odor,0.0552
+sun_anzyycgyacnppfws.jpg,Ylang Primary odor,0.0324
+sun_anzyycgyacnppfws.jpg,Cloth Primary odor,0.0235
+sun_anzyycgyacnppfws.jpg,Characteristic Primary odor,0.0224
+sun_anzyycgyacnppfws.jpg,Alliaceous Primary odor,0.0220
+sun_anzyycgyacnppfws.jpg,Human Perception Primary odor,0.0220
+sun_anzyycgyacnppfws.jpg,Industrial odours Primary odor,0.0217
+sun_anzyycgyacnppfws.jpg,Microbiological Primary odor,0.0213
+sun_aoemlihrrrwglvor.jpg,Vegetation Primary odor,0.1060
+sun_aoemlihrrrwglvor.jpg,Medicinal/ Phenolic Primary odor,0.0927
+sun_aoemlihrrrwglvor.jpg,Plants Primary odor,0.0834
+sun_aoemlihrrrwglvor.jpg,Dry fruit Primary odor,0.0570
+sun_aoemlihrrrwglvor.jpg,Citrus Primary odor,0.0556
+sun_aoemlihrrrwglvor.jpg,Herbaceous Primary odor,0.0424
+sun_aoemlihrrrwglvor.jpg,Ylang Primary odor,0.0416
+sun_aoemlihrrrwglvor.jpg,Fragrant/ Fruity Primary odor,0.0381
+sun_aoemlihrrrwglvor.jpg,City Smell Primary odor,0.0376
+sun_aoemlihrrrwglvor.jpg,Ripe/ Unripe Primary odor,0.0253
+sun_aosytjokmpvilcpj.jpg,Building materials & construction Primary odor,0.0993
+sun_aosytjokmpvilcpj.jpg,Cleaning materials Primary odor,0.0880
+sun_aosytjokmpvilcpj.jpg,Aromatic Primary odor,0.0809
+sun_aosytjokmpvilcpj.jpg,Restaurant Primary odor,0.0586
+sun_aosytjokmpvilcpj.jpg,Characteristic Primary odor,0.0558
+sun_aosytjokmpvilcpj.jpg,Industrial odours Primary odor,0.0338
+sun_aosytjokmpvilcpj.jpg,Human Perception Primary odor,0.0336
+sun_aosytjokmpvilcpj.jpg,Medicinal/ Phenolic Primary odor,0.0274
+sun_aosytjokmpvilcpj.jpg,Microbiological Primary odor,0.0241
+sun_aosytjokmpvilcpj.jpg,Hircine Primary odor,0.0227
+sun_atdkanradmwnyiyn.jpg,Cleaning materials Primary odor,0.0947
+sun_atdkanradmwnyiyn.jpg,Aromatic Primary odor,0.0579
+sun_atdkanradmwnyiyn.jpg,Ylang Primary odor,0.0555
+sun_atdkanradmwnyiyn.jpg,Characteristic Primary odor,0.0489
+sun_atdkanradmwnyiyn.jpg,Coal tar Primary odor,0.0253
+sun_atdkanradmwnyiyn.jpg,Ripe/ Unripe Primary odor,0.0226
+sun_atdkanradmwnyiyn.jpg,Medicinal/ Alcohol Primary odor,0.0217
+sun_atdkanradmwnyiyn.jpg,Microbiological Primary odor,0.0207
+sun_atdkanradmwnyiyn.jpg,Chlorinous Primary odor,0.0205
+sun_atdkanradmwnyiyn.jpg,Medicinal/ Phenolic Primary odor,0.0196
+sun_atipxhxbzczdttnx.jpg,Waste Water Primary odor,0.1319
+sun_atipxhxbzczdttnx.jpg,Waxy Primary odor,0.1060
+sun_atipxhxbzczdttnx.jpg,Dry woods Primary odor,0.0729
+sun_atipxhxbzczdttnx.jpg,Mossy woods Primary odor,0.0642
+sun_atipxhxbzczdttnx.jpg,Ambrosial Primary odor,0.0630
+sun_atipxhxbzczdttnx.jpg,Brown Primary odor,0.0417
+sun_atipxhxbzczdttnx.jpg,Woody Primary odor,0.0391
+sun_atipxhxbzczdttnx.jpg,Building materials & construction Primary odor,0.0283
+sun_atipxhxbzczdttnx.jpg,Microbiological Primary odor,0.0241
+sun_atipxhxbzczdttnx.jpg,Waste Primary odor,0.0236
+sun_avqxcffpkatshvcl.jpg,Cleaning materials Primary odor,0.2000
+sun_avqxcffpkatshvcl.jpg,Industrial odours Primary odor,0.1729
+sun_avqxcffpkatshvcl.jpg,Building materials & construction Primary odor,0.1539
+sun_avqxcffpkatshvcl.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.1015
+sun_avqxcffpkatshvcl.jpg,Synthetic Primary odor,0.0388
+sun_avqxcffpkatshvcl.jpg,Waste Water Primary odor,0.0234
+sun_avqxcffpkatshvcl.jpg,Solvent/ Hydrocarbon Primary odor,0.0220
+sun_avqxcffpkatshvcl.jpg,Fecal/ Sewery Primary odor,0.0145
+sun_avqxcffpkatshvcl.jpg,Non-food items Primary odor,0.0142
+sun_avqxcffpkatshvcl.jpg,Restaurant Primary odor,0.0139
+sun_awlzasuxltfvoqrx.jpg,Waste Water Primary odor,0.2190
+sun_awlzasuxltfvoqrx.jpg,Citrus Primary odor,0.0755
+sun_awlzasuxltfvoqrx.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0755
+sun_awlzasuxltfvoqrx.jpg,Fecal/ Sewery Primary odor,0.0586
+sun_awlzasuxltfvoqrx.jpg,Waxy Primary odor,0.0368
+sun_awlzasuxltfvoqrx.jpg,Water Primary odor,0.0282
+sun_awlzasuxltfvoqrx.jpg,Synthetic Primary odor,0.0268
+sun_awlzasuxltfvoqrx.jpg,Oriental Primary odor,0.0257
+sun_awlzasuxltfvoqrx.jpg,Bitter Primary odor,0.0252
+sun_awlzasuxltfvoqrx.jpg,Waste Primary odor,0.0204
+sun_axbmrnrlmwuzaodf.jpg,Restaurant Primary odor,0.3376
+sun_axbmrnrlmwuzaodf.jpg,Fecal/ Sewery Primary odor,0.0532
+sun_axbmrnrlmwuzaodf.jpg,Microbial Primary odor,0.0441
+sun_axbmrnrlmwuzaodf.jpg,Water Primary odor,0.0359
+sun_axbmrnrlmwuzaodf.jpg,Microbiological Primary odor,0.0251
+sun_axbmrnrlmwuzaodf.jpg,Cleaning materials Primary odor,0.0211
+sun_axbmrnrlmwuzaodf.jpg,Waste Water Primary odor,0.0193
+sun_axbmrnrlmwuzaodf.jpg,Sulphur/ Cabbage/ Garlic Primary odor,0.0165
+sun_axbmrnrlmwuzaodf.jpg,Industrial odours Primary odor,0.0162
+sun_axbmrnrlmwuzaodf.jpg,Brown Primary odor,0.0139
+sun_ayembmzlbmvbrvqc.jpg,Fecal/ Sewery Primary odor,0.0878
+sun_ayembmzlbmvbrvqc.jpg,Grassy/ Woody Primary odor,0.0843
+sun_ayembmzlbmvbrvqc.jpg,Microbiological Primary odor,0.0835
+sun_ayembmzlbmvbrvqc.jpg,Synthetic Primary odor,0.0803
+sun_ayembmzlbmvbrvqc.jpg,Waste Water Primary odor,0.0740
+sun_ayembmzlbmvbrvqc.jpg,Chemical/ Hydrocarbon Primary odor,0.0354
+sun_ayembmzlbmvbrvqc.jpg,Industrial odours Primary odor,0.0346
+sun_ayembmzlbmvbrvqc.jpg,Citrus Primary odor,0.0343
+sun_ayembmzlbmvbrvqc.jpg,Fuel/ Gas Station/ Solvent Primary odor,0.0217
+sun_ayembmzlbmvbrvqc.jpg,Green Primary odor,0.0193
+sun_aytkqydhywbnykun.jpg,City Smell Primary odor,0.1939
+sun_aytkqydhywbnykun.jpg,Restaurant Primary odor,0.0892
+sun_aytkqydhywbnykun.jpg,Cleaning materials Primary odor,0.0595
+sun_aytkqydhywbnykun.jpg,Fragrance Primary odor,0.0363
+sun_aytkqydhywbnykun.jpg,Human Perception Primary odor,0.0295
+sun_aytkqydhywbnykun.jpg,Foul Primary odor,0.0225
+sun_aytkqydhywbnykun.jpg,Sharp/ Pungent Primary odor,0.0203
+sun_aytkqydhywbnykun.jpg,Medicinal/ Alcohol Primary odor,0.0184
+sun_aytkqydhywbnykun.jpg,Characteristic Primary odor,0.0178
+sun_aytkqydhywbnykun.jpg,Microbiological Primary odor,0.0178
+sun_bemqrnupbojbmaql.jpg,Cleaning materials Primary odor,0.1807
+sun_bemqrnupbojbmaql.jpg,Plants Primary odor,0.0614
+sun_bemqrnupbojbmaql.jpg,Ylang Primary odor,0.0504
+sun_bemqrnupbojbmaql.jpg,Dry fruit Primary odor,0.0378
+sun_bemqrnupbojbmaql.jpg,Industrial odours Primary odor,0.0374
+sun_bemqrnupbojbmaql.jpg,Coal tar Primary odor,0.0292
+sun_bemqrnupbojbmaql.jpg,Aromatic Primary odor,0.0271
+sun_bemqrnupbojbmaql.jpg,Vegetation Primary odor,0.0265
+sun_bemqrnupbojbmaql.jpg,Building materials & construction Primary odor,0.0257
+sun_bemqrnupbojbmaql.jpg,Fragrance Primary odor,0.0224
+sun_bhwcxdrfinabwbpi.jpg,People & animals Primary odor,0.1554
+sun_bhwcxdrfinabwbpi.jpg,Drinking Water Primary odor,0.0643
+sun_bhwcxdrfinabwbpi.jpg,Waste Water Primary odor,0.0394
+sun_bhwcxdrfinabwbpi.jpg,Ylang Primary odor,0.0391
+sun_bhwcxdrfinabwbpi.jpg,Coal tar Primary odor,0.0289
+sun_bhwcxdrfinabwbpi.jpg,Woody oriental Primary odor,0.0274
+sun_bhwcxdrfinabwbpi.jpg,Nature Primary odor,0.0263
+sun_bhwcxdrfinabwbpi.jpg,Hircine Primary odor,0.0249
+sun_bhwcxdrfinabwbpi.jpg,Human Perception Primary odor,0.0212
+sun_bhwcxdrfinabwbpi.jpg,Vegetation Primary odor,0.0200
+sun_biqtmpypgwgktgab.jpg,Restaurant Primary odor,0.0652
+sun_biqtmpypgwgktgab.jpg,Synthetic Primary odor,0.0554
+sun_biqtmpypgwgktgab.jpg,Fecal/ Sewery Primary odor,0.0482
+sun_biqtmpypgwgktgab.jpg,Characteristic Primary odor,0.0384
+sun_biqtmpypgwgktgab.jpg,Other Primary odor,0.0332
+sun_biqtmpypgwgktgab.jpg,Other Primary odor,0.0332
+sun_biqtmpypgwgktgab.jpg,Cleaning materials Primary odor,0.0267
+sun_biqtmpypgwgktgab.jpg,Microbiological Primary odor,0.0246
+sun_biqtmpypgwgktgab.jpg,Microbial Primary odor,0.0245
+sun_biqtmpypgwgktgab.jpg,Aromatic Primary odor,0.0243
+sun_cpsvebxdrvevzsim.jpg,City Smell Primary odor,0.0971
+sun_cpsvebxdrvevzsim.jpg,Human Perception Primary odor,0.0773
+sun_cpsvebxdrvevzsim.jpg,Industrial odours Primary odor,0.0622
+sun_cpsvebxdrvevzsim.jpg,Traffic emissions Primary odor,0.0559
+sun_cpsvebxdrvevzsim.jpg,Chemical/ Hydrocarbon Primary odor,0.0544
+sun_cpsvebxdrvevzsim.jpg,Synthetic Primary odor,0.0445
+sun_cpsvebxdrvevzsim.jpg,Nose Feel Primary odor,0.0402
+sun_cpsvebxdrvevzsim.jpg,Characteristic Primary odor,0.0368
+sun_cpsvebxdrvevzsim.jpg,Perfumes Primary odor,0.0366
+sun_cpsvebxdrvevzsim.jpg,Aromatic Primary odor,0.0332
